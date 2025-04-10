@@ -1,0 +1,108 @@
+Function	FDR	Genes in network	Genes in genome
+proteasome core complex	2.0224700222472556e-31	15	19
+proteasome complex	9.481046481887536e-27	16	42
+endopeptidase complex	1.6265233786107026e-26	17	58
+antigen processing and presentation of exogenous peptide antigen via MHC class I	1.6354761595418118e-26	18	76
+antigen processing and presentation of peptide antigen via MHC class I	1.5613962394436245e-25	18	86
+peptidase complex	9.13936070099856e-25	17	74
+cellular response to interleukin-1	1.790081933905879e-24	18	99
+non-canonical Wnt signaling pathway	8.099003280036888e-22	18	137
+regulation of cellular amine metabolic process	1.808386417402356e-21	15	67
+cellular response to hypoxia	2.20916285390834e-21	16	90
+hematopoietic stem cell differentiation	4.891305625153155e-21	15	72
+response to interleukin-1	8.913181227099567e-21	18	159
+regulation of transcription from RNA polymerase II promoter in response to stress	2.0396070245303915e-20	16	104
+regulation of DNA-templated transcription in response to stress	2.2296840410141455e-20	16	105
+regulation of hematopoietic progenitor cell differentiation	3.68848482647591e-20	15	83
+antigen processing and presentation of exogenous peptide antigen	4.441877341368862e-20	18	176
+innate immune response activating cell surface receptor signaling pathway	5.499119152724351e-20	16	112
+innate immune response-activating signal transduction	6.037514326186793e-20	16	113
+antigen processing and presentation of exogenous antigen	6.290149200114885e-20	18	181
+activation of innate immune response	6.30755928235918e-20	16	114
+antigen processing and presentation of peptide antigen	1.3968446102774709e-19	18	190
+regulation of establishment of planar polarity	1.8764228335008893e-19	15	94
+negative regulation of cell cycle G2/M phase transition	3.3521974565486476e-19	15	98
+regulation of animal organ morphogenesis	3.3521974565486476e-19	16	127
+establishment of planar polarity	3.7846182431145974e-19	15	99
+hematopoietic progenitor cell differentiation	4.1138145060510046e-19	15	100
+establishment of tissue polarity	4.1138145060510046e-19	15	100
+negative regulation of mitotic cell cycle phase transition	4.2475992460333407e-19	18	205
+regulation of stem cell differentiation	4.488473497655745e-19	15	101
+antigen processing and presentation	5.176670438178384e-19	18	208
+regulation of innate immune response	5.5353594448020795e-19	19	255
+Fc receptor signaling pathway	6.686848172631861e-19	17	171
+positive regulation of innate immune response	6.686848172631861e-19	17	171
+positive regulation of Wnt signaling pathway	8.017601938346617e-19	16	137
+regulation of G2/M transition of mitotic cell cycle	8.017601938346617e-19	15	106
+positive regulation of response to biotic stimulus	1.2054310608582854e-18	18	220
+negative regulation of cell cycle phase transition	1.2742453193434759e-18	18	221
+antigen receptor-mediated signaling pathway	1.347434305311132e-18	18	222
+cellular amine metabolic process	2.116603158313957e-18	15	114
+response to hypoxia	2.116603158313957e-18	16	147
+morphogenesis of a polarized epithelium	2.116603158313957e-18	15	114
+cellular response to decreased oxygen levels	2.116603158313957e-18	16	147
+amine metabolic process	2.36619532783136e-18	15	115
+regulation of cellular ketone metabolic process	4.758158313579418e-18	16	155
+protein modification by small protein removal	4.758158313579418e-18	19	291
+cellular response to tumor necrosis factor	7.064620623579444e-18	16	159
+cellular response to oxygen levels	7.666311712462806e-18	16	160
+negative regulation of Wnt signaling pathway	1.2451264750285941e-17	16	165
+negative regulation of mitotic cell cycle	2.2731263581630008e-17	18	263
+regulation of RNA stability	7.112638517711252e-17	16	184
+regulation of canonical Wnt signaling pathway	1.3165914055038698e-16	17	238
+positive regulation of defense response	1.7986472991748728e-16	18	296
+regulation of mRNA catabolic process	1.8751325320969484e-16	16	196
+response to decreased oxygen levels	4.818888468667002e-16	16	208
+cellular ketone metabolic process	6.436136269001159e-16	16	212
+canonical Wnt signaling pathway	7.019658849177373e-16	17	264
+response to oxygen levels	1.12854265877395e-15	16	220
+G2/M transition of mitotic cell cycle	2.132034242076101e-15	15	182
+stem cell differentiation	2.27810754286172e-15	15	183
+response to tumor necrosis factor	3.312384191696178e-15	16	236
+proteasome-mediated ubiquitin-dependent protein catabolic process	5.004136985243526e-15	17	298
+regulation of cell cycle G2/M phase transition	5.2586634836423825e-15	15	194
+cellular amino acid metabolic process	9.870157874668877e-14	16	293
+cell cycle G2/M phase transition	2.0403113626700451e-13	15	248
+response to type I interferon	0.002128980430948758	5	88
+cellular response to type I interferon	0.002128980430948758	5	88
+antigen processing and presentation of endogenous peptide antigen	0.0034930696805363965	3	15
+regulation of apoptotic signaling pathway	0.0034930696805363965	7	255
+positive regulation of apoptotic process	0.0037958495213335232	6	171
+positive regulation of protein localization to membrane	0.004755989608005997	5	105
+cellular extravasation	0.007034683231011424	4	56
+antigen processing and presentation of endogenous antigen	0.008071970944796369	3	20
+regulation of peptidase activity	0.009048033670821546	7	299
+phosphatidylinositol-mediated signaling	0.011685271508554076	5	128
+positive regulation of intracellular protein transport	0.014669580029045547	5	135
+secretory granule lumen	0.014669580029045547	6	221
+cellular response to peptide hormone stimulus	0.015118931078781095	6	223
+response to peptide hormone	0.023438679721132494	6	242
+positive regulation of cellular protein localization	0.025318037281728673	6	246
+regulation of protein targeting to membrane	0.025318037281728673	3	30
+regulation of MAP kinase activity	0.026977855209899298	6	250
+regulation of protein localization to membrane	0.028617576705522774	5	158
+inositol lipid-mediated signaling	0.0296358205090634	5	160
+regulation of phosphatidylinositol 3-kinase signaling	0.0296358205090634	4	84
+positive regulation of protein transport	0.03441316728066305	6	264
+programmed necrotic cell death	0.03441316728066305	3	34
+positive regulation of DNA-binding transcription factor activity	0.037999166636983765	5	170
+positive regulation of establishment of protein localization	0.040440145592407904	6	274
+cellular response to peptide	0.040440145592407904	6	274
+negative regulation of protein serine/threonine kinase activity	0.04907607011517957	4	98
+apoptotic mitochondrial changes	0.04907607011517957	4	98
+necrotic cell death	0.052427597495058535	3	40
+negative regulation of protein phosphorylation	0.05554169079851831	6	293
+positive regulation of intracellular transport	0.056114187057305094	5	188
+phosphatidylinositol 3-kinase signaling	0.059031815421475634	4	104
+negative regulation of kinase activity	0.06502938274440037	5	195
+response to virus	0.06745031601467692	5	197
+lymphocyte proliferation	0.06833310499790148	5	198
+mononuclear cell proliferation	0.07340132840665804	5	202
+regulation of intracellular protein transport	0.07340132840665804	5	202
+response to nicotine	0.07880673406147044	2	10
+extrinsic component of membrane	0.08564133218798377	5	210
+T cell migration	0.08564133218798377	3	49
+endocytic vesicle	0.0861394061269767	5	211
+positive regulation of protein serine/threonine kinase activity	0.08717772088381975	5	212
+regulation of necroptotic process	0.0915961501293895	2	11
+integral component of endoplasmic reticulum membrane	0.09824919798936035	3	52

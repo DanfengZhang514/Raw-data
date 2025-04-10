@@ -1,0 +1,2232 @@
+# Organism: H. sapiens
+# Application version: 3.6.0
+# Database version: 13 August 2021 00:00:00
+# Network generated on: 11 May 2024
+# Author: GeneMANIA (genemania.org)
+# Notes: Network weight reflects the data source relevance for predicting the function of interest
+Entity 1	Entity 2	Weight	Network group	Network
+CHP1	CASP2	0.016581075	Co-expression	Rieger-Chu-2004
+CD38	HGF	0.018078933	Co-expression	Rieger-Chu-2004
+CD38	ISG20	0.015066763	Co-expression	Rieger-Chu-2004
+TAP1	GZMB	0.011121057	Co-expression	Rieger-Chu-2004
+TAP1	IGF2R	0.006780337	Co-expression	Rieger-Chu-2004
+PPP3CA	EMP1	0.016095014	Co-expression	Rieger-Chu-2004
+PPP3CA	CHP1	0.0062533855	Co-expression	Rieger-Chu-2004
+STAT1	GZMB	0.010160627	Co-expression	Rieger-Chu-2004
+STAT1	IGF2R	0.00835232	Co-expression	Rieger-Chu-2004
+STAT1	TAP1	0.012609512	Co-expression	Rieger-Chu-2004
+PSMA2	SEM1	0.015338674	Co-expression	Rieger-Chu-2004
+PSMA4	SEM1	0.01115216	Co-expression	Rieger-Chu-2004
+PSMB1	SEM1	0.0061764945	Co-expression	Rieger-Chu-2004
+ERBB2	GLUD1	0.014560739	Co-expression	Rieger-Chu-2004
+PSMA3	ISG20	0.008623541	Co-expression	Rieger-Chu-2004
+PSMA3	SEM1	0.010818937	Co-expression	Rieger-Chu-2004
+PSMA3	PSMB1	0.008213875	Co-expression	Rieger-Chu-2004
+PSMA5	PSMA2	0.01097252	Co-expression	Rieger-Chu-2004
+PSMA5	PSMA4	0.008906768	Co-expression	Rieger-Chu-2004
+PSMB2	PSMA2	0.014113246	Co-expression	Rieger-Chu-2004
+PSMB2	PSMB1	0.007905377	Co-expression	Rieger-Chu-2004
+PSMB2	PSMA3	0.008374563	Co-expression	Rieger-Chu-2004
+PSMA1	SEM1	0.010006434	Co-expression	Rieger-Chu-2004
+PSMA1	PSMB1	0.007805006	Co-expression	Rieger-Chu-2004
+PSMA1	PSMA3	0.01298701	Co-expression	Rieger-Chu-2004
+PSMA1	PSMB2	0.011434256	Co-expression	Rieger-Chu-2004
+PSMB3	PSMB1	0.0067652664	Co-expression	Rieger-Chu-2004
+PSMB3	PSMB2	0.008922923	Co-expression	Rieger-Chu-2004
+PSMB8	PSMA1	0.014994844	Co-expression	Rieger-Chu-2004
+PSMB6	PSMB1	0.005228075	Co-expression	Rieger-Chu-2004
+PSMB6	PSMA3	0.0062195905	Co-expression	Rieger-Chu-2004
+PSMB6	PSMB2	0.0067201057	Co-expression	Rieger-Chu-2004
+PSMB6	PSMA1	0.0072012823	Co-expression	Rieger-Chu-2004
+PSMB6	PSMB3	0.0062953574	Co-expression	Rieger-Chu-2004
+PSMB7	SEM1	0.008339428	Co-expression	Rieger-Chu-2004
+PSMB7	PSMB1	0.00863136	Co-expression	Rieger-Chu-2004
+PSMB7	PSMA3	0.010827253	Co-expression	Rieger-Chu-2004
+PSMB7	PSMB2	0.008459083	Co-expression	Rieger-Chu-2004
+PSMB7	PSMA1	0.011537599	Co-expression	Rieger-Chu-2004
+PSMB7	PSMB3	0.008085458	Co-expression	Rieger-Chu-2004
+PSMB7	PSMB6	0.00799046	Co-expression	Rieger-Chu-2004
+PSMB4	UBB	0.009558677	Co-expression	Rieger-Chu-2004
+PSMB4	PSMA2	0.014507937	Co-expression	Rieger-Chu-2004
+PSMB4	PSMB1	0.0069158827	Co-expression	Rieger-Chu-2004
+PSMB4	PSMA1	0.010703945	Co-expression	Rieger-Chu-2004
+PSMB4	PSMB3	0.009741758	Co-expression	Rieger-Chu-2004
+PSMB4	PSMB6	0.006820446	Co-expression	Rieger-Chu-2004
+IL12RB2	STAT5A	0.008516739	Co-expression	Rieger-Chu-2004
+IL12RB2	STAT4	0.007120279	Co-expression	Rieger-Chu-2004
+ADRM1	PSMB3	0.00759884	Co-expression	Rieger-Chu-2004
+ADRM1	PSMB6	0.007506702	Co-expression	Rieger-Chu-2004
+DAP	PYGB	0.01894762	Co-expression	Rieger-Chu-2004
+B2M	CHP1	0.010618566	Co-expression	Rieger-Chu-2004
+B2M	UBB	0.014827137	Co-expression	Rieger-Chu-2004
+PSMA7	ISG20	0.011128141	Co-expression	Rieger-Chu-2004
+GCH1	ISG20	0.017971348	Co-expression	Rosenwald-Staudt-2001
+PIK3CG	CD38	0.008015844	Co-expression	Rosenwald-Staudt-2001
+CDKN1B	AKT2	0.021654759	Co-expression	Rosenwald-Staudt-2001
+STAT4	CD38	0.006126043	Co-expression	Rosenwald-Staudt-2001
+STAT4	STAT5A	0.011674142	Co-expression	Rosenwald-Staudt-2001
+APC	IGF2R	0.017723937	Co-expression	Rosenwald-Staudt-2001
+STAT1	IGF2R	0.016314829	Co-expression	Rosenwald-Staudt-2001
+STAT1	TAP1	0.016556395	Co-expression	Rosenwald-Staudt-2001
+RIPK3	CD38	0.0051928065	Co-expression	Rosenwald-Staudt-2001
+RIPK3	STAT4	0.0066534574	Co-expression	Rosenwald-Staudt-2001
+B2M	IGF2R	0.024426822	Co-expression	Rosenwald-Staudt-2001
+BST1	TIMP3	0.0071744146	Co-expression	Rosenwald-Staudt-2001
+CD38	ISG20	0.0064470703	Co-expression	Boldrick-Relman-2002
+GCH1	TIMP3	0.0073610414	Co-expression	Boldrick-Relman-2002
+TAP1	ISG20	0.008955544	Co-expression	Boldrick-Relman-2002
+STAT5A	ISG20	0.008081189	Co-expression	Boldrick-Relman-2002
+STAT4	ISG20	0.0077945627	Co-expression	Boldrick-Relman-2002
+STAT4	STAT5A	0.020136364	Co-expression	Boldrick-Relman-2002
+STAT1	ISG20	0.006540585	Co-expression	Boldrick-Relman-2002
+STAT1	CD38	0.01283317	Co-expression	Boldrick-Relman-2002
+STAT1	TAP1	0.018726556	Co-expression	Boldrick-Relman-2002
+STAT1	STAT5A	0.013378392	Co-expression	Boldrick-Relman-2002
+DAP	CHP1	0.0049311873	Co-expression	Boldrick-Relman-2002
+B2M	ISG20	0.008411788	Co-expression	Boldrick-Relman-2002
+B2M	TAP1	0.02621706	Co-expression	Boldrick-Relman-2002
+BST1	CHP1	0.01002067	Co-expression	Boldrick-Relman-2002
+BST1	DAP	0.006888557	Co-expression	Boldrick-Relman-2002
+ISG20	GZMB	0.0077241273	Co-expression	Bild-Nevins-2006 B
+CD38	GZMB	0.007615033	Co-expression	Bild-Nevins-2006 B
+CD38	ISG20	0.009343864	Co-expression	Bild-Nevins-2006 B
+GCH1	GZMB	0.010721753	Co-expression	Bild-Nevins-2006 B
+GCH1	CD38	0.013116963	Co-expression	Bild-Nevins-2006 B
+TAP1	GZMB	0.005674624	Co-expression	Bild-Nevins-2006 B
+TAP1	ISG20	0.007480353	Co-expression	Bild-Nevins-2006 B
+TAP1	CD38	0.0067000566	Co-expression	Bild-Nevins-2006 B
+TAP1	GCH1	0.009626347	Co-expression	Bild-Nevins-2006 B
+STAT1	GZMB	0.008415797	Co-expression	Bild-Nevins-2006 B
+STAT1	ISG20	0.011086683	Co-expression	Bild-Nevins-2006 B
+STAT1	CD38	0.011482784	Co-expression	Bild-Nevins-2006 B
+STAT1	TAP1	0.012239893	Co-expression	Bild-Nevins-2006 B
+PSMA2	DNAJA1	0.01472132	Co-expression	Bild-Nevins-2006 B
+PSMA4	SEM1	0.013387734	Co-expression	Bild-Nevins-2006 B
+PSMA4	PSMA2	0.020604223	Co-expression	Bild-Nevins-2006 B
+PSMA3	DNAJA1	0.006350236	Co-expression	Bild-Nevins-2006 B
+PSMA3	PSMA2	0.010473303	Co-expression	Bild-Nevins-2006 B
+PSMA3	PSMA4	0.00931863	Co-expression	Bild-Nevins-2006 B
+PSMA5	PSMA2	0.020740021	Co-expression	Bild-Nevins-2006 B
+PSMA5	PSMA4	0.016734378	Co-expression	Bild-Nevins-2006 B
+PSMA5	PSMA3	0.009652678	Co-expression	Bild-Nevins-2006 B
+PSMB2	SEM1	0.008082972	Co-expression	Bild-Nevins-2006 B
+PSMB2	TAP1	0.0071542207	Co-expression	Bild-Nevins-2006 B
+PSMB2	PSMB1	0.009907761	Co-expression	Bild-Nevins-2006 B
+PSMB2	PSMA3	0.00497924	Co-expression	Bild-Nevins-2006 B
+PSMB2	PSMA5	0.010207147	Co-expression	Bild-Nevins-2006 B
+PSMB8	GZMB	0.00735431	Co-expression	Bild-Nevins-2006 B
+PSMB8	CD38	0.008926831	Co-expression	Bild-Nevins-2006 B
+PSMB8	TAP1	0.012633117	Co-expression	Bild-Nevins-2006 B
+PSMB8	STAT1	0.017721651	Co-expression	Bild-Nevins-2006 B
+PSMB8	PSMA3	0.0067792446	Co-expression	Bild-Nevins-2006 B
+PSMB6	PSMB2	0.010878428	Co-expression	Bild-Nevins-2006 B
+PSMB7	PSMB1	0.022667328	Co-expression	Bild-Nevins-2006 B
+PSMB7	PSMB2	0.010504239	Co-expression	Bild-Nevins-2006 B
+PSMB4	PSMB6	0.016361449	Co-expression	Bild-Nevins-2006 B
+IL12RB2	TAP1	0.008195823	Co-expression	Bild-Nevins-2006 B
+ADRM1	PSMB1	0.016414303	Co-expression	Bild-Nevins-2006 B
+ADRM1	PSMB3	0.016040837	Co-expression	Bild-Nevins-2006 B
+DAP	PSMB2	0.009910885	Co-expression	Bild-Nevins-2006 B
+TAP2	ISG20	0.01349327	Co-expression	Bild-Nevins-2006 B
+TAP2	CD38	0.013431236	Co-expression	Bild-Nevins-2006 B
+TAP2	TAP1	0.015835674	Co-expression	Bild-Nevins-2006 B
+TAP2	STAT1	0.019804336	Co-expression	Bild-Nevins-2006 B
+TAP2	PSMB2	0.010775149	Co-expression	Bild-Nevins-2006 B
+TAP2	PSMB8	0.020243876	Co-expression	Bild-Nevins-2006 B
+B2M	TAP1	0.01076688	Co-expression	Bild-Nevins-2006 B
+B2M	STAT1	0.017476773	Co-expression	Bild-Nevins-2006 B
+B2M	PSMB8	0.016257003	Co-expression	Bild-Nevins-2006 B
+B2M	TAP2	0.02053437	Co-expression	Bild-Nevins-2006 B
+PSMA7	CHP1	0.008876078	Co-expression	Bild-Nevins-2006 B
+DNAJA1	GLUD1	0.013766655	Co-expression	Perou-Botstein-1999
+APC	PIK3CG	0.018049775	Co-expression	Perou-Botstein-1999
+PPP3CA	IGF2R	0.009520387	Co-expression	Perou-Botstein-1999
+STAT1	GLUD1	0.012075129	Co-expression	Perou-Botstein-1999
+PSMB1	APC	0.01798438	Co-expression	Perou-Botstein-1999
+PSMA5	GLUD1	0.015585287	Co-expression	Perou-Botstein-1999
+PSMA5	STAT1	0.015267582	Co-expression	Perou-Botstein-1999
+PSMB3	NFKB1	0.007901592	Co-expression	Perou-Botstein-1999
+PSMA7	PSMB7	0.012367761	Co-expression	Perou-Botstein-1999
+TAP1	ISG20	0.015124654	Co-expression	Ramaswamy-Golub-2001
+TAP1	DNAJA1	0.015123477	Co-expression	Ramaswamy-Golub-2001
+STAT1	GCH1	0.013457453	Co-expression	Ramaswamy-Golub-2001
+STAT1	TAP1	0.024529643	Co-expression	Ramaswamy-Golub-2001
+NFKB1	PIK3CD	0.013498858	Co-expression	Ramaswamy-Golub-2001
+NFKB1	GCH1	0.008841113	Co-expression	Ramaswamy-Golub-2001
+PSMA2	CD38	0.01850594	Co-expression	Ramaswamy-Golub-2001
+PSMA4	SEM1	0.0074834274	Co-expression	Ramaswamy-Golub-2001
+PSMB1	UBB	0.013086098	Co-expression	Ramaswamy-Golub-2001
+PSMA5	CD38	0.010937973	Co-expression	Ramaswamy-Golub-2001
+PSMA5	DNAJA1	0.008797346	Co-expression	Ramaswamy-Golub-2001
+PSMA5	TAP1	0.0074942815	Co-expression	Ramaswamy-Golub-2001
+PSMA5	PSMA6	0.0059736664	Co-expression	Ramaswamy-Golub-2001
+PSMB2	PSMA2	0.009956717	Co-expression	Ramaswamy-Golub-2001
+PSMB2	PSMA5	0.005784987	Co-expression	Ramaswamy-Golub-2001
+PSMA1	PSMA2	0.0068873735	Co-expression	Ramaswamy-Golub-2001
+PSMA1	PSMA6	0.004916283	Co-expression	Ramaswamy-Golub-2001
+PSMA1	PSMA3	0.009822047	Co-expression	Ramaswamy-Golub-2001
+PSMA1	PSMA5	0.0040907976	Co-expression	Ramaswamy-Golub-2001
+PSMA1	PSMB2	0.0048662773	Co-expression	Ramaswamy-Golub-2001
+PSMB3	UBB	0.0071644173	Co-expression	Ramaswamy-Golub-2001
+PSMB3	PSMB1	0.008503575	Co-expression	Ramaswamy-Golub-2001
+PSMB3	PSMB2	0.0057705906	Co-expression	Ramaswamy-Golub-2001
+PSMB8	DNAJA1	0.014144434	Co-expression	Ramaswamy-Golub-2001
+PSMB8	TAP1	0.01864535	Co-expression	Ramaswamy-Golub-2001
+PSMB8	PSMA5	0.007348492	Co-expression	Ramaswamy-Golub-2001
+PSMB6	UBB	0.014628555	Co-expression	Ramaswamy-Golub-2001
+PSMB6	PSMB2	0.011541001	Co-expression	Ramaswamy-Golub-2001
+PSMB7	UBB	0.017292785	Co-expression	Ramaswamy-Golub-2001
+PSMB7	PSMA2	0.01891244	Co-expression	Ramaswamy-Golub-2001
+PSMB7	PSMB1	0.021296844	Co-expression	Ramaswamy-Golub-2001
+PSMB7	PSMB3	0.010931388	Co-expression	Ramaswamy-Golub-2001
+PSMB4	PSMA2	0.009035122	Co-expression	Ramaswamy-Golub-2001
+PSMB4	PSMB1	0.009101626	Co-expression	Ramaswamy-Golub-2001
+PSMB4	PSMB2	0.0066038356	Co-expression	Ramaswamy-Golub-2001
+PSMB4	PSMB3	0.00551837	Co-expression	Ramaswamy-Golub-2001
+PSMB4	PSMB6	0.01056009	Co-expression	Ramaswamy-Golub-2001
+ADRM1	PSMB2	0.011334562	Co-expression	Ramaswamy-Golub-2001
+ADRM1	PSMB3	0.009557278	Co-expression	Ramaswamy-Golub-2001
+B2M	ISG20	0.013887037	Co-expression	Ramaswamy-Golub-2001
+GCH1	ISG20	0.017294206	Co-expression	Perou-Botstein-2000
+PIK3CG	CD38	0.013080925	Co-expression	Perou-Botstein-2000
+STAT4	TAP1	0.012750167	Co-expression	Perou-Botstein-2000
+STAT1	TAP1	0.02081446	Co-expression	Perou-Botstein-2000
+PSMA2	SEM1	0.007072758	Co-expression	Perou-Botstein-2000
+PSMB1	SEM1	0.012691073	Co-expression	Perou-Botstein-2000
+PSMB1	PSMA2	0.00585029	Co-expression	Perou-Botstein-2000
+ERBB2	STAT4	0.014930809	Co-expression	Perou-Botstein-2000
+PSMA6	PSMA2	0.0034772062	Co-expression	Perou-Botstein-2000
+PSMA3	PSMA6	0.0074419533	Co-expression	Perou-Botstein-2000
+PSMA5	SEM1	0.005800274	Co-expression	Perou-Botstein-2000
+PSMA5	PSMA2	0.003290807	Co-expression	Perou-Botstein-2000
+PSMA5	PSMB1	0.0073002083	Co-expression	Perou-Botstein-2000
+PSMA5	PSMA6	0.0039764955	Co-expression	Perou-Botstein-2000
+PSMA5	PSMA3	0.0044111363	Co-expression	Perou-Botstein-2000
+PSMA1	PSMA2	0.0066023194	Co-expression	Perou-Botstein-2000
+PSMA1	PSMB1	0.0123327635	Co-expression	Perou-Botstein-2000
+PSMA1	PSMA6	0.0067282277	Co-expression	Perou-Botstein-2000
+PSMA1	PSMA5	0.0060287574	Co-expression	Perou-Botstein-2000
+PSMB3	PSMA2	0.005902169	Co-expression	Perou-Botstein-2000
+PSMB3	ERBB2	0.014193487	Co-expression	Perou-Botstein-2000
+PSMB8	TAP1	0.019276628	Co-expression	Perou-Botstein-2000
+PSMB6	PSMA2	0.0048438264	Co-expression	Perou-Botstein-2000
+PSMB6	PSMB1	0.009048325	Co-expression	Perou-Botstein-2000
+PSMB6	PSMA6	0.005712271	Co-expression	Perou-Botstein-2000
+PSMB6	PSMA3	0.0068689445	Co-expression	Perou-Botstein-2000
+PSMB6	PSMA5	0.004682797	Co-expression	Perou-Botstein-2000
+PSMB6	PSMB2	0.010112355	Co-expression	Perou-Botstein-2000
+PSMB6	PSMA1	0.009122589	Co-expression	Perou-Botstein-2000
+PSMB7	PSMA6	0.006518337	Co-expression	Perou-Botstein-2000
+PSMB7	PSMA5	0.0059210476	Co-expression	Perou-Botstein-2000
+PSMB7	PSMB6	0.008120666	Co-expression	Perou-Botstein-2000
+ADRM1	PSMA2	0.0059818365	Co-expression	Perou-Botstein-2000
+ADRM1	PSMA5	0.005606802	Co-expression	Perou-Botstein-2000
+USP14	PSMA5	0.0067890477	Co-expression	Perou-Botstein-2000
+USP14	PSMA1	0.015784021	Co-expression	Perou-Botstein-2000
+TAP2	TAP1	0.0115123885	Co-expression	Perou-Botstein-2000
+TAP2	STAT4	0.013773967	Co-expression	Perou-Botstein-2000
+B2M	PIK3CG	0.012095709	Co-expression	Perou-Botstein-2000
+B2M	TAP1	0.012235345	Co-expression	Perou-Botstein-2000
+B2M	STAT1	0.014849258	Co-expression	Perou-Botstein-2000
+CHP1	GADD45B	0.02254047	Co-expression	Dobbin-Giordano-2005
+CD38	ZBP1	0.006370622	Co-expression	Dobbin-Giordano-2005
+CD38	GZMB	0.0062497742	Co-expression	Dobbin-Giordano-2005
+CAMK2A	IFNB1	0.020380763	Co-expression	Dobbin-Giordano-2005
+TAP1	CD38	0.0071572093	Co-expression	Dobbin-Giordano-2005
+STAT1	GZMB	0.011945912	Co-expression	Dobbin-Giordano-2005
+STAT1	CD38	0.009935191	Co-expression	Dobbin-Giordano-2005
+STAT1	TAP1	0.017408997	Co-expression	Dobbin-Giordano-2005
+PSMA2	SEM1	0.019783828	Co-expression	Dobbin-Giordano-2005
+PSMA3	PSMA4	0.016217636	Co-expression	Dobbin-Giordano-2005
+PSMA5	PSMB1	0.017995114	Co-expression	Dobbin-Giordano-2005
+PSMA5	PSMA3	0.01152852	Co-expression	Dobbin-Giordano-2005
+PSMB3	PSMB1	0.009430464	Co-expression	Dobbin-Giordano-2005
+PSMB3	PSMA3	0.008949738	Co-expression	Dobbin-Giordano-2005
+PSMB3	PSMA5	0.0089835785	Co-expression	Dobbin-Giordano-2005
+PSMB3	PSMB2	0.013544933	Co-expression	Dobbin-Giordano-2005
+PSMB8	CD38	0.00686822	Co-expression	Dobbin-Giordano-2005
+PSMB8	TAP1	0.02061649	Co-expression	Dobbin-Giordano-2005
+PSMB7	PSMB6	0.01014922	Co-expression	Dobbin-Giordano-2005
+ADRM1	PSMB3	0.009629893	Co-expression	Dobbin-Giordano-2005
+USP14	SEM1	0.021321915	Co-expression	Dobbin-Giordano-2005
+USP14	CDKN1B	0.017844431	Co-expression	Dobbin-Giordano-2005
+DAP	PYGB	0.008858669	Co-expression	Dobbin-Giordano-2005
+TAP2	TAP1	0.016758211	Co-expression	Dobbin-Giordano-2005
+PSMA7	PSMA2	0.019718992	Co-expression	Dobbin-Giordano-2005
+PSMA7	ADRM1	0.016939553	Co-expression	Dobbin-Giordano-2005
+ISG20	ZBP1	0.008798078	Co-expression	Arijs-Rutgeerts-2009
+CD38	GZMB	0.0057421266	Co-expression	Arijs-Rutgeerts-2009
+PIK3CG	PSMA8	0.01439446	Co-expression	Arijs-Rutgeerts-2009
+PIK3CG	CD38	0.0058436906	Co-expression	Arijs-Rutgeerts-2009
+TAP1	GCH1	0.011803899	Co-expression	Arijs-Rutgeerts-2009
+STAT1	ZBP1	0.007642203	Co-expression	Arijs-Rutgeerts-2009
+STAT1	GZMB	0.012969218	Co-expression	Arijs-Rutgeerts-2009
+STAT1	TAP1	0.009430929	Co-expression	Arijs-Rutgeerts-2009
+PSMA2	GCH1	0.016059246	Co-expression	Arijs-Rutgeerts-2009
+PSMA4	SEM1	0.0062526944	Co-expression	Arijs-Rutgeerts-2009
+PSMB1	PSMA4	0.015142743	Co-expression	Arijs-Rutgeerts-2009
+PSMA3	TAP1	0.009996947	Co-expression	Arijs-Rutgeerts-2009
+PSMA3	PSMA4	0.01196584	Co-expression	Arijs-Rutgeerts-2009
+PSMA1	SEM1	0.011857897	Co-expression	Arijs-Rutgeerts-2009
+PSMA1	DNAJA1	0.019654216	Co-expression	Arijs-Rutgeerts-2009
+PSMA1	PSMA4	0.012468295	Co-expression	Arijs-Rutgeerts-2009
+PSMB3	SEM1	0.009867947	Co-expression	Arijs-Rutgeerts-2009
+PSMB3	PSMA1	0.018269585	Co-expression	Arijs-Rutgeerts-2009
+PSMB8	GCH1	0.01437982	Co-expression	Arijs-Rutgeerts-2009
+PSMB8	TAP1	0.011000454	Co-expression	Arijs-Rutgeerts-2009
+PSMB8	STAT1	0.011120296	Co-expression	Arijs-Rutgeerts-2009
+PSMB8	PSMA4	0.009861302	Co-expression	Arijs-Rutgeerts-2009
+PSMB8	PSMA1	0.014906794	Co-expression	Arijs-Rutgeerts-2009
+PSMB6	SEM1	0.010016932	Co-expression	Arijs-Rutgeerts-2009
+PSMB6	PSMB1	0.014922485	Co-expression	Arijs-Rutgeerts-2009
+PSMB6	PSMA1	0.015696501	Co-expression	Arijs-Rutgeerts-2009
+PSMB6	PSMB3	0.016516851	Co-expression	Arijs-Rutgeerts-2009
+PSMB6	PSMB8	0.01106204	Co-expression	Arijs-Rutgeerts-2009
+PSMB4	PSMA2	0.014143068	Co-expression	Arijs-Rutgeerts-2009
+PSMB4	PSMA4	0.014784534	Co-expression	Arijs-Rutgeerts-2009
+PSMB4	PSMB1	0.030601442	Co-expression	Arijs-Rutgeerts-2009
+PSMB4	PSMB6	0.014976635	Co-expression	Arijs-Rutgeerts-2009
+IL12RB2	STAT4	0.012403823	Co-expression	Arijs-Rutgeerts-2009
+TAP2	TAP1	0.01403719	Co-expression	Arijs-Rutgeerts-2009
+TAP2	STAT1	0.014290026	Co-expression	Arijs-Rutgeerts-2009
+TAP2	PSMB8	0.015864804	Co-expression	Arijs-Rutgeerts-2009
+B2M	UBB	0.010072584	Co-expression	Arijs-Rutgeerts-2009
+PSMA7	SEM1	0.009073622	Co-expression	Arijs-Rutgeerts-2009
+PSMA7	PSMA4	0.0119743245	Co-expression	Arijs-Rutgeerts-2009
+PSMA7	PSMB1	0.019701112	Co-expression	Arijs-Rutgeerts-2009
+PSMA7	PSMA1	0.019978916	Co-expression	Arijs-Rutgeerts-2009
+PSMA7	PSMB6	0.013268227	Co-expression	Arijs-Rutgeerts-2009
+PSMA7	PSMB4	0.022092063	Co-expression	Arijs-Rutgeerts-2009
+STAT5A	PIK3CG	0.017257955	Co-expression	Wang-Maris-2006
+STAT4	PIK3CD	0.022311272	Co-expression	Wang-Maris-2006
+STAT1	ISG20	0.013095554	Co-expression	Wang-Maris-2006
+STAT1	TAP1	0.016486125	Co-expression	Wang-Maris-2006
+NFKB1	PIK3CG	0.017092375	Co-expression	Wang-Maris-2006
+NFKB1	STAT5A	0.01738787	Co-expression	Wang-Maris-2006
+PSMA3	SEM1	0.012235092	Co-expression	Wang-Maris-2006
+PSMA5	SEM1	0.014443268	Co-expression	Wang-Maris-2006
+PSMA5	PSMA4	0.019808743	Co-expression	Wang-Maris-2006
+PSMB3	PSMB2	0.017069371	Co-expression	Wang-Maris-2006
+PSMB8	TAP1	0.0149096185	Co-expression	Wang-Maris-2006
+PSMB6	UBB	0.01779864	Co-expression	Wang-Maris-2006
+PSMB6	PSMB2	0.016281933	Co-expression	Wang-Maris-2006
+PSMB6	PSMB3	0.019531792	Co-expression	Wang-Maris-2006
+GNAO1	PRKAR1B	0.011496315	Co-expression	Wang-Maris-2006
+ADRM1	GLUD1	0.011848138	Co-expression	Wang-Maris-2006
+ADRM1	PSMB2	0.01246794	Co-expression	Wang-Maris-2006
+ADRM1	PSMB3	0.010602538	Co-expression	Wang-Maris-2006
+ADRM1	PSMB6	0.010546229	Co-expression	Wang-Maris-2006
+B2M	TAP1	0.011114388	Co-expression	Wang-Maris-2006
+B2M	PSMB8	0.012522025	Co-expression	Wang-Maris-2006
+PSMA7	PSMB7	0.011097519	Co-expression	Wang-Maris-2006
+CHP1	UNC5B	0.0034832542	Co-expression	Burington-Shaughnessy-2008
+STAT1	DNAJA1	0.0198212	Co-expression	Burington-Shaughnessy-2008
+STAT1	TAP1	0.018805888	Co-expression	Burington-Shaughnessy-2008
+PSMA2	DNAJA1	0.02089797	Co-expression	Burington-Shaughnessy-2008
+PSMA4	DNAJA1	0.013071405	Co-expression	Burington-Shaughnessy-2008
+PSMA4	PSMA2	0.018114457	Co-expression	Burington-Shaughnessy-2008
+PSMB1	IGF2R	0.016358132	Co-expression	Burington-Shaughnessy-2008
+PSMA3	PSMA4	0.012488151	Co-expression	Burington-Shaughnessy-2008
+PSMB2	CD38	0.011940515	Co-expression	Burington-Shaughnessy-2008
+PSMB2	PSMA3	0.012775041	Co-expression	Burington-Shaughnessy-2008
+PSMB3	TAP1	0.011870401	Co-expression	Burington-Shaughnessy-2008
+PSMB3	PSMB1	0.011906269	Co-expression	Burington-Shaughnessy-2008
+PSMB3	PSMB2	0.01374494	Co-expression	Burington-Shaughnessy-2008
+PSMB8	TAP1	0.022644995	Co-expression	Burington-Shaughnessy-2008
+PSMB6	PSMB1	0.015428037	Co-expression	Burington-Shaughnessy-2008
+PSMB6	PSMB2	0.02155263	Co-expression	Burington-Shaughnessy-2008
+PSMB6	PSMB3	0.015872987	Co-expression	Burington-Shaughnessy-2008
+PSMB7	PSMA2	0.015069601	Co-expression	Burington-Shaughnessy-2008
+PSMB7	PSMA4	0.0110293655	Co-expression	Burington-Shaughnessy-2008
+PSMB4	TAP1	0.016950278	Co-expression	Burington-Shaughnessy-2008
+PSMB4	PSMB2	0.012378705	Co-expression	Burington-Shaughnessy-2008
+PSMB4	PSMB3	0.011964241	Co-expression	Burington-Shaughnessy-2008
+PSMB4	PSMB7	0.011271362	Co-expression	Burington-Shaughnessy-2008
+ADRM1	GLUD1	0.01951463	Co-expression	Burington-Shaughnessy-2008
+ADRM1	PSMB2	0.014579702	Co-expression	Burington-Shaughnessy-2008
+ADRM1	PSMB3	0.014530252	Co-expression	Burington-Shaughnessy-2008
+ADRM1	PSMB6	0.013795465	Co-expression	Burington-Shaughnessy-2008
+ADRM1	PSMB4	0.015048684	Co-expression	Burington-Shaughnessy-2008
+USP14	PSMB2	0.01787539	Co-expression	Burington-Shaughnessy-2008
+TAP2	TAP1	0.02538091	Co-expression	Burington-Shaughnessy-2008
+TAP2	PSMB8	0.01989252	Co-expression	Burington-Shaughnessy-2008
+B2M	UBB	0.015044011	Co-expression	Burington-Shaughnessy-2008
+B2M	PPP3CA	0.014365425	Co-expression	Burington-Shaughnessy-2008
+ISG20	GADD45B	0.007957502	Co-expression	Chen-Brown-2002
+GCH1	GADD45B	0.0076763425	Co-expression	Chen-Brown-2002
+GCH1	ISG20	0.0033879457	Co-expression	Chen-Brown-2002
+GCH1	GLUD1	0.0026782213	Co-expression	Chen-Brown-2002
+STAT4	ISG20	0.008367985	Co-expression	Chen-Brown-2002
+PPP3CA	GLUD1	0.0052334536	Co-expression	Chen-Brown-2002
+STAT1	TAP1	0.020184483	Co-expression	Chen-Brown-2002
+PSMB1	SEM1	0.01160999	Co-expression	Chen-Brown-2002
+PSMA6	PSMA4	0.006427769	Co-expression	Chen-Brown-2002
+PSMA5	PSMA2	0.013028116	Co-expression	Chen-Brown-2002
+PSMA5	PSMA4	0.008982203	Co-expression	Chen-Brown-2002
+PSMA5	PSMA6	0.0071452023	Co-expression	Chen-Brown-2002
+PSMB2	PSMB1	0.01163135	Co-expression	Chen-Brown-2002
+PSMB2	PSMA5	0.0095403	Co-expression	Chen-Brown-2002
+PSMA1	PSMA4	0.0063836933	Co-expression	Chen-Brown-2002
+PSMA1	PSMA6	0.005770086	Co-expression	Chen-Brown-2002
+PSMA1	PSMA5	0.006986961	Co-expression	Chen-Brown-2002
+PSMB3	SEM1	0.010221807	Co-expression	Chen-Brown-2002
+PSMB3	PSMA5	0.011161992	Co-expression	Chen-Brown-2002
+PSMB3	PSMB2	0.011656336	Co-expression	Chen-Brown-2002
+PSMB6	PSMB1	0.013209172	Co-expression	Chen-Brown-2002
+PSMB6	PSMA5	0.009692366	Co-expression	Chen-Brown-2002
+PSMB6	PSMB3	0.0110923005	Co-expression	Chen-Brown-2002
+PSMB7	PSMA2	0.016296117	Co-expression	Chen-Brown-2002
+PSMB7	PSMA4	0.0105126435	Co-expression	Chen-Brown-2002
+PSMB7	PSMA6	0.008230992	Co-expression	Chen-Brown-2002
+PSMB7	PSMA5	0.016093884	Co-expression	Chen-Brown-2002
+PSMB7	PSMB2	0.0128879715	Co-expression	Chen-Brown-2002
+PSMB7	PSMA1	0.0077753514	Co-expression	Chen-Brown-2002
+PSMB7	PSMB3	0.0132023245	Co-expression	Chen-Brown-2002
+PSMB7	PSMB6	0.012677999	Co-expression	Chen-Brown-2002
+ADRM1	PYGB	0.0062032035	Co-expression	Chen-Brown-2002
+B2M	CDKN1B	0.00952817	Co-expression	Chen-Brown-2002
+B2M	TAP1	0.009340003	Co-expression	Chen-Brown-2002
+B2M	STAT1	0.013591731	Co-expression	Chen-Brown-2002
+UBB	GLUD1	0.013905796	Co-expression	Innocenti-Brown-2011
+GCH1	TICAM2	0.0035125024	Co-expression	Innocenti-Brown-2011
+CAMK2A	IFNB1	0.008224978	Co-expression	Innocenti-Brown-2011
+TAP1	ISG20	0.013575274	Co-expression	Innocenti-Brown-2011
+TAP1	CD38	0.010869887	Co-expression	Innocenti-Brown-2011
+NFKB1	STAT5A	0.014489196	Co-expression	Innocenti-Brown-2011
+NFKB1	STAT1	0.012763767	Co-expression	Innocenti-Brown-2011
+PSMB1	PSMA2	0.004517438	Co-expression	Innocenti-Brown-2011
+PSMA6	PSMA2	0.0057616513	Co-expression	Innocenti-Brown-2011
+PSMA6	PSMB1	0.013776177	Co-expression	Innocenti-Brown-2011
+PSMA3	CDKN1B	0.011383561	Co-expression	Innocenti-Brown-2011
+PSMA3	PSMA2	0.0036484743	Co-expression	Innocenti-Brown-2011
+PSMA3	PSMB1	0.0077880304	Co-expression	Innocenti-Brown-2011
+PSMA3	PSMA6	0.01046147	Co-expression	Innocenti-Brown-2011
+PSMA1	PSMA2	0.0060605477	Co-expression	Innocenti-Brown-2011
+PSMA1	PSMB1	0.013607974	Co-expression	Innocenti-Brown-2011
+PSMA1	PSMA6	0.022846008	Co-expression	Innocenti-Brown-2011
+PSMB3	TICAM2	0.0061429725	Co-expression	Innocenti-Brown-2011
+PSMB8	PSMA5	0.008515958	Co-expression	Innocenti-Brown-2011
+PSMB6	PSMA2	0.003873188	Co-expression	Innocenti-Brown-2011
+PSMB6	PSMA1	0.0124370195	Co-expression	Innocenti-Brown-2011
+PSMB7	PSMB1	0.013988997	Co-expression	Innocenti-Brown-2011
+PSMB7	PSMA3	0.010783791	Co-expression	Innocenti-Brown-2011
+PSMB4	SEM1	0.009194177	Co-expression	Innocenti-Brown-2011
+PSMB4	PSMB1	0.011304467	Co-expression	Innocenti-Brown-2011
+PSMB4	PSMA6	0.014712059	Co-expression	Innocenti-Brown-2011
+PSMB4	PSMA3	0.008411602	Co-expression	Innocenti-Brown-2011
+PSMB4	PSMA1	0.016143017	Co-expression	Innocenti-Brown-2011
+PSMB4	PSMB7	0.017342918	Co-expression	Innocenti-Brown-2011
+ADRM1	PSMB2	0.0112323165	Co-expression	Innocenti-Brown-2011
+PSMA7	PSMB7	0.01774243	Co-expression	Innocenti-Brown-2011
+PIK3CG	CD38	0.021573022	Co-expression	Alizadeh-Staudt-2000
+STAT1	IGF2R	0.014670504	Co-expression	Alizadeh-Staudt-2000
+NFKB1	IGF2R	0.017683692	Co-expression	Alizadeh-Staudt-2000
+B2M	IGF2R	0.017563462	Co-expression	Alizadeh-Staudt-2000
+B2M	STAT1	0.014376221	Co-expression	Alizadeh-Staudt-2000
+BST1	TIMP3	0.0075407242	Co-expression	Alizadeh-Staudt-2000
+EMP1	IFNB1	0.009107777	Co-expression	Wu-Garvey-2007
+TIMP3	PRKAR1B	0.010040002	Co-expression	Wu-Garvey-2007
+STAT4	ELANE	0.0057515902	Co-expression	Wu-Garvey-2007
+PSMA2	SEM1	0.01456944	Co-expression	Wu-Garvey-2007
+PSMA4	SEM1	0.0040465076	Co-expression	Wu-Garvey-2007
+PSMA4	PSMA2	0.0102283405	Co-expression	Wu-Garvey-2007
+PSMA3	GLUD1	0.009360777	Co-expression	Wu-Garvey-2007
+PSMA3	PSMA2	0.014852687	Co-expression	Wu-Garvey-2007
+PSMA3	PSMA4	0.0042478074	Co-expression	Wu-Garvey-2007
+PSMA1	PSMA4	0.0062670987	Co-expression	Wu-Garvey-2007
+PSMA1	PSMA3	0.009370026	Co-expression	Wu-Garvey-2007
+PSMB3	PSMB2	0.004942557	Co-expression	Wu-Garvey-2007
+PSMB8	PIK3CG	0.013399218	Co-expression	Wu-Garvey-2007
+PSMB8	TAP1	0.029684847	Co-expression	Wu-Garvey-2007
+GNAO1	GZMB	0.0117297545	Co-expression	Wu-Garvey-2007
+PSMB7	PSMB6	0.008701419	Co-expression	Wu-Garvey-2007
+PSMB4	PSMB2	0.0066375653	Co-expression	Wu-Garvey-2007
+PSMB4	PSMB3	0.005017966	Co-expression	Wu-Garvey-2007
+PSMB4	PSMB6	0.0044186744	Co-expression	Wu-Garvey-2007
+PSMB4	PSMB7	0.014857495	Co-expression	Wu-Garvey-2007
+USP14	DNAJA1	0.008629292	Co-expression	Wu-Garvey-2007
+B2M	PSMB6	0.008347146	Co-expression	Wu-Garvey-2007
+BST1	GCH1	0.026059547	Co-expression	Wu-Garvey-2007
+PSMA7	DAP	0.013734302	Co-expression	Wu-Garvey-2007
+TAP1	ISG20	0.0028148668	Co-expression	Jiang-de Kok-2017
+STAT5A	ISG20	0.008193841	Co-expression	Jiang-de Kok-2017
+STAT5A	TAP1	0.007287375	Co-expression	Jiang-de Kok-2017
+STAT1	ISG20	0.0027620667	Co-expression	Jiang-de Kok-2017
+STAT1	TAP1	0.0025571696	Co-expression	Jiang-de Kok-2017
+NFKB1	UNC5B	0.008898478	Co-expression	Jiang-de Kok-2017
+NFKB1	GCH1	0.007967268	Co-expression	Jiang-de Kok-2017
+NFKB1	TAP1	0.0034372986	Co-expression	Jiang-de Kok-2017
+PSMA4	PSMA2	0.012217359	Co-expression	Jiang-de Kok-2017
+PSMB1	PSMA2	0.0077220746	Co-expression	Jiang-de Kok-2017
+PSMB1	PSMA4	0.00967045	Co-expression	Jiang-de Kok-2017
+PSMA6	STAT1	0.0031962527	Co-expression	Jiang-de Kok-2017
+PSMA6	PSMA2	0.0063804854	Co-expression	Jiang-de Kok-2017
+PSMA6	PSMA4	0.008489061	Co-expression	Jiang-de Kok-2017
+PSMA6	PSMB1	0.005702247	Co-expression	Jiang-de Kok-2017
+PSMA3	STAT1	0.003913502	Co-expression	Jiang-de Kok-2017
+PSMA3	PSMA2	0.008332692	Co-expression	Jiang-de Kok-2017
+PSMA3	PSMA4	0.012056865	Co-expression	Jiang-de Kok-2017
+PSMA3	PSMB1	0.0068679266	Co-expression	Jiang-de Kok-2017
+PSMA3	PSMA6	0.0066114236	Co-expression	Jiang-de Kok-2017
+PSMA5	PSMA2	0.0064914683	Co-expression	Jiang-de Kok-2017
+PSMA5	PSMA4	0.00928734	Co-expression	Jiang-de Kok-2017
+PSMA5	PSMB1	0.006827675	Co-expression	Jiang-de Kok-2017
+PSMA5	PSMA6	0.005434257	Co-expression	Jiang-de Kok-2017
+PSMA5	PSMA3	0.006995295	Co-expression	Jiang-de Kok-2017
+PSMB2	PSMA2	0.016669177	Co-expression	Jiang-de Kok-2017
+PSMB2	PSMA4	0.021264473	Co-expression	Jiang-de Kok-2017
+PSMB2	PSMB1	0.013733201	Co-expression	Jiang-de Kok-2017
+PSMB2	PSMA6	0.011370874	Co-expression	Jiang-de Kok-2017
+PSMB2	PSMA3	0.013895876	Co-expression	Jiang-de Kok-2017
+PSMB2	PSMA5	0.01223407	Co-expression	Jiang-de Kok-2017
+PSMA1	PSMA2	0.00722487	Co-expression	Jiang-de Kok-2017
+PSMA1	PSMA4	0.009261206	Co-expression	Jiang-de Kok-2017
+PSMA1	PSMB1	0.005858578	Co-expression	Jiang-de Kok-2017
+PSMA1	PSMA6	0.0050797774	Co-expression	Jiang-de Kok-2017
+PSMA1	PSMA3	0.0063149524	Co-expression	Jiang-de Kok-2017
+PSMA1	PSMA5	0.0051671783	Co-expression	Jiang-de Kok-2017
+PSMA1	PSMB2	0.01252742	Co-expression	Jiang-de Kok-2017
+PSMB3	PSMA2	0.0069696815	Co-expression	Jiang-de Kok-2017
+PSMB3	PSMB1	0.0061239223	Co-expression	Jiang-de Kok-2017
+PSMB3	PSMA6	0.00437118	Co-expression	Jiang-de Kok-2017
+PSMB3	PSMA5	0.0046962467	Co-expression	Jiang-de Kok-2017
+PSMB3	PSMB2	0.011576709	Co-expression	Jiang-de Kok-2017
+PSMB3	PSMA1	0.0046982663	Co-expression	Jiang-de Kok-2017
+PSMB8	ISG20	0.002843147	Co-expression	Jiang-de Kok-2017
+PSMB8	TAP1	0.002591859	Co-expression	Jiang-de Kok-2017
+PSMB8	STAT1	0.0026557168	Co-expression	Jiang-de Kok-2017
+PSMB8	PSMA4	0.0053105312	Co-expression	Jiang-de Kok-2017
+PSMB8	PSMA6	0.003481208	Co-expression	Jiang-de Kok-2017
+PSMB8	PSMA3	0.0042126025	Co-expression	Jiang-de Kok-2017
+PSMB8	PSMA5	0.003510664	Co-expression	Jiang-de Kok-2017
+PSMB8	PSMB2	0.007366812	Co-expression	Jiang-de Kok-2017
+PSMB8	PSMA1	0.0035344744	Co-expression	Jiang-de Kok-2017
+PSMB6	PSMB3	0.0055857575	Co-expression	Jiang-de Kok-2017
+PSMB7	PSMB3	0.005448873	Co-expression	Jiang-de Kok-2017
+PSMB7	PSMB6	0.0072462047	Co-expression	Jiang-de Kok-2017
+PSMB4	PSMB1	0.0098414365	Co-expression	Jiang-de Kok-2017
+PSMB4	PSMA6	0.0066007897	Co-expression	Jiang-de Kok-2017
+PSMB4	PSMA5	0.007653158	Co-expression	Jiang-de Kok-2017
+PSMB4	PSMA1	0.0071011744	Co-expression	Jiang-de Kok-2017
+PSMB4	PSMB3	0.0074503166	Co-expression	Jiang-de Kok-2017
+PSMB4	PSMB6	0.008257888	Co-expression	Jiang-de Kok-2017
+PSMB4	PSMB7	0.008901271	Co-expression	Jiang-de Kok-2017
+ADRM1	DNAJA1	0.008162446	Co-expression	Jiang-de Kok-2017
+ADRM1	PSMA5	0.004048436	Co-expression	Jiang-de Kok-2017
+TAP2	STAT1	0.0057901414	Co-expression	Jiang-de Kok-2017
+TAP2	PSMB8	0.0061968723	Co-expression	Jiang-de Kok-2017
+B2M	ISG20	0.009000381	Co-expression	Jiang-de Kok-2017
+B2M	TAP1	0.008323661	Co-expression	Jiang-de Kok-2017
+B2M	STAT1	0.008204539	Co-expression	Jiang-de Kok-2017
+PSMA7	PSMB1	0.0074988375	Co-expression	Jiang-de Kok-2017
+PSMA7	PSMB7	0.007284054	Co-expression	Jiang-de Kok-2017
+PSMA7	PSMB4	0.008929302	Co-expression	Jiang-de Kok-2017
+ELANE	GZMB	0.018623382	Co-expression	Wang-Cheung-2015
+TIMP3	EMP1	0.020238044	Co-expression	Wang-Cheung-2015
+PSMA4	APC	0.0055322945	Co-expression	Wang-Cheung-2015
+PSMA3	DNAJA1	0.0035736717	Co-expression	Wang-Cheung-2015
+PSMB3	SEM1	0.007639394	Co-expression	Wang-Cheung-2015
+PSMB3	PSMB1	0.009325289	Co-expression	Wang-Cheung-2015
+PSMB8	TAP1	0.009509566	Co-expression	Wang-Cheung-2015
+PSMB6	SEM1	0.0036293576	Co-expression	Wang-Cheung-2015
+PSMB6	AKT2	0.0043238234	Co-expression	Wang-Cheung-2015
+PSMB6	PSMB1	0.0049574203	Co-expression	Wang-Cheung-2015
+PSMB6	PSMA5	0.0017713835	Co-expression	Wang-Cheung-2015
+PSMB6	PSMB3	0.0014356672	Co-expression	Wang-Cheung-2015
+PSMB7	PSMB1	0.01835825	Co-expression	Wang-Cheung-2015
+PSMB7	PSMB3	0.0047974326	Co-expression	Wang-Cheung-2015
+PSMB7	PSMB6	0.002635565	Co-expression	Wang-Cheung-2015
+PSMB4	PSMB6	0.004007328	Co-expression	Wang-Cheung-2015
+PSMB4	PSMB7	0.01686017	Co-expression	Wang-Cheung-2015
+ADRM1	SEM1	0.008369604	Co-expression	Wang-Cheung-2015
+ADRM1	PSMA5	0.0039752848	Co-expression	Wang-Cheung-2015
+ADRM1	PSMB2	0.010968449	Co-expression	Wang-Cheung-2015
+ADRM1	PSMA1	0.00942013	Co-expression	Wang-Cheung-2015
+ADRM1	PSMB3	0.002869826	Co-expression	Wang-Cheung-2015
+ADRM1	PSMB6	0.0015102073	Co-expression	Wang-Cheung-2015
+USP14	PSMB2	0.007875601	Co-expression	Wang-Cheung-2015
+USP14	PSMA1	0.0066614714	Co-expression	Wang-Cheung-2015
+USP14	PSMB6	0.0010564686	Co-expression	Wang-Cheung-2015
+USP14	ADRM1	0.0024168526	Co-expression	Wang-Cheung-2015
+DAP	PSMB6	0.0024547335	Co-expression	Wang-Cheung-2015
+ELANE	ZBP1	0.019062947	Co-expression	Mallon-McKay-2013
+GCH1	GLUD1	0.010739374	Co-expression	Mallon-McKay-2013
+PSMA2	SEM1	0.003673035	Co-expression	Mallon-McKay-2013
+PSMA4	SEM1	0.0040683364	Co-expression	Mallon-McKay-2013
+PSMA4	PSMA2	0.0037332515	Co-expression	Mallon-McKay-2013
+PSMB1	SEM1	0.004227023	Co-expression	Mallon-McKay-2013
+PSMB1	PSMA2	0.0037955497	Co-expression	Mallon-McKay-2013
+PSMB1	PSMA4	0.0041273604	Co-expression	Mallon-McKay-2013
+PSMA6	SEM1	0.0052177836	Co-expression	Mallon-McKay-2013
+PSMA6	PSMA2	0.0046425625	Co-expression	Mallon-McKay-2013
+PSMA6	PSMB1	0.005270498	Co-expression	Mallon-McKay-2013
+PSMA3	SEM1	0.005554085	Co-expression	Mallon-McKay-2013
+PSMA3	PSMA2	0.005220099	Co-expression	Mallon-McKay-2013
+PSMA3	PSMA4	0.005667831	Co-expression	Mallon-McKay-2013
+PSMA3	PSMB1	0.005682666	Co-expression	Mallon-McKay-2013
+PSMA5	PSMA2	0.0033877264	Co-expression	Mallon-McKay-2013
+PSMA5	PSMA4	0.0037263646	Co-expression	Mallon-McKay-2013
+PSMA5	PSMB1	0.0037379432	Co-expression	Mallon-McKay-2013
+PSMA5	PSMA3	0.005044298	Co-expression	Mallon-McKay-2013
+PSMB2	PSMA5	0.010542501	Co-expression	Mallon-McKay-2013
+PSMA1	SEM1	0.0038471124	Co-expression	Mallon-McKay-2013
+PSMA1	DNAJA1	0.0041107885	Co-expression	Mallon-McKay-2013
+PSMA1	PSMA4	0.003835377	Co-expression	Mallon-McKay-2013
+PSMA1	PSMB1	0.0038655768	Co-expression	Mallon-McKay-2013
+PSMA1	PSMA6	0.004928837	Co-expression	Mallon-McKay-2013
+PSMA1	PSMA3	0.005214474	Co-expression	Mallon-McKay-2013
+PSMB3	PSMA5	0.0065318667	Co-expression	Mallon-McKay-2013
+PSMB8	TAP1	0.010212359	Co-expression	Mallon-McKay-2013
+PSMB6	PSMB1	0.005065824	Co-expression	Mallon-McKay-2013
+PSMB7	SEM1	0.004315115	Co-expression	Mallon-McKay-2013
+PSMB7	UBB	0.0068574077	Co-expression	Mallon-McKay-2013
+PSMB7	PSMA4	0.004187036	Co-expression	Mallon-McKay-2013
+PSMB7	PSMB1	0.0042989464	Co-expression	Mallon-McKay-2013
+PSMB7	PSMA6	0.0056835786	Co-expression	Mallon-McKay-2013
+PSMB7	PSMA1	0.0041861623	Co-expression	Mallon-McKay-2013
+PSMB4	SEM1	0.0044231163	Co-expression	Mallon-McKay-2013
+PSMB4	PSMA2	0.003972558	Co-expression	Mallon-McKay-2013
+PSMB4	PSMB1	0.0045045544	Co-expression	Mallon-McKay-2013
+PSMB4	PSMB7	0.0045445478	Co-expression	Mallon-McKay-2013
+B2M	ISG20	0.018587135	Co-expression	Mallon-McKay-2013
+BST1	RIPK3	0.018653072	Co-expression	Mallon-McKay-2013
+PSMA7	SEM1	0.007889617	Co-expression	Mallon-McKay-2013
+PSMA7	PSMA2	0.0069269175	Co-expression	Mallon-McKay-2013
+PSMA7	PSMA4	0.0075472156	Co-expression	Mallon-McKay-2013
+PSMA7	PSMB1	0.007939832	Co-expression	Mallon-McKay-2013
+PSMA7	PSMA3	0.010554006	Co-expression	Mallon-McKay-2013
+PSMA7	PSMA1	0.007195154	Co-expression	Mallon-McKay-2013
+PSMA7	PSMB7	0.008020388	Co-expression	Mallon-McKay-2013
+PSMA7	PSMB4	0.008355448	Co-expression	Mallon-McKay-2013
+DNAJA1	GADD45B	0.017209772	Co-localization	Johnson-Shoemaker-2003
+DNAJA1	GCH1	0.015302925	Co-localization	Johnson-Shoemaker-2003
+PIK3CG	CASP2	0.0070192646	Co-localization	Johnson-Shoemaker-2003
+STAT5A	CASP2	0.008435239	Co-localization	Johnson-Shoemaker-2003
+STAT5A	PIK3CG	0.01533182	Co-localization	Johnson-Shoemaker-2003
+STAT1	GZMB	0.009490093	Co-localization	Johnson-Shoemaker-2003
+STAT1	TAP1	0.010937201	Co-localization	Johnson-Shoemaker-2003
+NFKB1	TAP1	0.023529828	Co-localization	Johnson-Shoemaker-2003
+NFKB1	STAT1	0.013965235	Co-localization	Johnson-Shoemaker-2003
+PSMA3	PSMA4	0.01249336	Co-localization	Johnson-Shoemaker-2003
+PSMA3	PSMB1	0.006133872	Co-localization	Johnson-Shoemaker-2003
+PSMA5	PSMA3	0.011566662	Co-localization	Johnson-Shoemaker-2003
+PSMA1	PSMB1	0.015265441	Co-localization	Johnson-Shoemaker-2003
+PSMA1	PSMA3	0.011804285	Co-localization	Johnson-Shoemaker-2003
+PSMA1	PSMB2	0.022417186	Co-localization	Johnson-Shoemaker-2003
+PSMB8	TAP1	0.009579644	Co-localization	Johnson-Shoemaker-2003
+PSMB8	NFKB1	0.0111647295	Co-localization	Johnson-Shoemaker-2003
+GNAO1	APC	0.0018475624	Co-localization	Johnson-Shoemaker-2003
+PSMB7	SEM1	0.008288904	Co-localization	Johnson-Shoemaker-2003
+PSMB7	PSMB1	0.0120186135	Co-localization	Johnson-Shoemaker-2003
+PSMB7	PSMA3	0.009033595	Co-localization	Johnson-Shoemaker-2003
+ADRM1	SEM1	0.010571142	Co-localization	Johnson-Shoemaker-2003
+TAP2	TAP1	0.018798053	Co-localization	Johnson-Shoemaker-2003
+TAP2	PSMB8	0.011248076	Co-localization	Johnson-Shoemaker-2003
+B2M	GZMB	0.008043573	Co-localization	Johnson-Shoemaker-2003
+B2M	STAT1	0.006989767	Co-localization	Johnson-Shoemaker-2003
+B2M	NFKB1	0.0137855	Co-localization	Johnson-Shoemaker-2003
+B2M	RIPK3	0.012359904	Co-localization	Johnson-Shoemaker-2003
+BST1	ELANE	0.0061789993	Co-localization	Johnson-Shoemaker-2003
+PSMA7	SEM1	0.0046220347	Co-localization	Johnson-Shoemaker-2003
+PSMA7	PSMB1	0.0059372433	Co-localization	Johnson-Shoemaker-2003
+PSMA7	PSMA3	0.0047071134	Co-localization	Johnson-Shoemaker-2003
+PSMA7	PSMB7	0.010759227	Co-localization	Johnson-Shoemaker-2003
+PSMA7	ADRM1	0.011528328	Co-localization	Johnson-Shoemaker-2003
+STAT1	STAT5A	0.11089697	Co-localization	Chen-Huang-2014
+ERBB2	STAT1	0.056006126	Co-localization	Chen-Huang-2014
+CD38	CASP2	0.009614422	Co-localization	Schadt-Shoemaker-2004
+AKT2	IGF2R	0.011611131	Co-localization	Schadt-Shoemaker-2004
+PIK3CD	TICAM2	0.00049593445	Genetic Interactions	Lin-Smith-2010
+HGF	EMP1	0.0008391901	Genetic Interactions	Lin-Smith-2010
+HGF	PIK3CD	0.0005093109	Genetic Interactions	Lin-Smith-2010
+ISG20	PIK3CD	0.0016653361	Genetic Interactions	Lin-Smith-2010
+GLUD1	TICAM2	0.00086524367	Genetic Interactions	Lin-Smith-2010
+IGF2R	IFNB1	0.0022676704	Genetic Interactions	Lin-Smith-2010
+UBB	ISG20	0.0028682225	Genetic Interactions	Lin-Smith-2010
+CD38	EMP1	0.0009821906	Genetic Interactions	Lin-Smith-2010
+CD38	ISG20	0.0026699717	Genetic Interactions	Lin-Smith-2010
+CD38	SEM1	0.0007468449	Genetic Interactions	Lin-Smith-2010
+GCH1	HGF	0.00064527587	Genetic Interactions	Lin-Smith-2010
+GCH1	UBB	0.0008113105	Genetic Interactions	Lin-Smith-2010
+AKT2	UNC5B	0.0011889718	Genetic Interactions	Lin-Smith-2010
+AKT2	PIK3CD	0.0006720654	Genetic Interactions	Lin-Smith-2010
+PIK3CG	AKT2	0.0017097855	Genetic Interactions	Lin-Smith-2010
+CAMK2A	GCH1	0.0005762798	Genetic Interactions	Lin-Smith-2010
+CDKN1B	PIK3CD	0.0009622166	Genetic Interactions	Lin-Smith-2010
+STAT5A	GCH1	0.0009787146	Genetic Interactions	Lin-Smith-2010
+APC	UNC5B	0.00045144418	Genetic Interactions	Lin-Smith-2010
+APC	PIK3CD	0.00025517851	Genetic Interactions	Lin-Smith-2010
+APC	HGF	0.0003495533	Genetic Interactions	Lin-Smith-2010
+APC	GCH1	0.0003233007	Genetic Interactions	Lin-Smith-2010
+APC	STAT5A	0.0005301808	Genetic Interactions	Lin-Smith-2010
+PPP3CA	TICAM2	0.00032262504	Genetic Interactions	Lin-Smith-2010
+PPP3CA	EMP1	0.00039853348	Genetic Interactions	Lin-Smith-2010
+PPP3CA	UNC5B	0.00042790503	Genetic Interactions	Lin-Smith-2010
+PPP3CA	IGF2R	0.00041856492	Genetic Interactions	Lin-Smith-2010
+PPP3CA	DNAJA1	0.0002931881	Genetic Interactions	Lin-Smith-2010
+PPP3CA	PIK3CG	0.00061534334	Genetic Interactions	Lin-Smith-2010
+PPP3CA	CAMK2A	0.00029589984	Genetic Interactions	Lin-Smith-2010
+PPP3CA	APC	0.00016600375	Genetic Interactions	Lin-Smith-2010
+STAT1	GCH1	0.0010441365	Genetic Interactions	Lin-Smith-2010
+STAT1	CDKN1B	0.0021328188	Genetic Interactions	Lin-Smith-2010
+PSMA2	GCH1	0.0014916448	Genetic Interactions	Lin-Smith-2010
+PSMA2	DNAJA1	0.0014271245	Genetic Interactions	Lin-Smith-2010
+PSMA4	PIK3CD	0.000717294	Genetic Interactions	Lin-Smith-2010
+PSMA4	ISG20	0.0032128128	Genetic Interactions	Lin-Smith-2010
+PSMA4	APC	0.0004922975	Genetic Interactions	Lin-Smith-2010
+ERBB2	CASP2	0.004086107	Genetic Interactions	Lin-Smith-2010
+PSMA6	HGF	0.001751986	Genetic Interactions	Lin-Smith-2010
+PSMA3	PIK3CD	0.000663297	Genetic Interactions	Lin-Smith-2010
+PSMA3	GLUD1	0.0011572368	Genetic Interactions	Lin-Smith-2010
+PSMA3	SEM1	0.0008310365	Genetic Interactions	Lin-Smith-2010
+PSMA3	IGF2R	0.0011478455	Genetic Interactions	Lin-Smith-2010
+PSMA5	DNAJA1	0.0005300456	Genetic Interactions	Lin-Smith-2010
+PSMA5	TAP1	0.0017755721	Genetic Interactions	Lin-Smith-2010
+PSMA5	APC	0.000300113	Genetic Interactions	Lin-Smith-2010
+PSMA5	PPP3CA	0.00028446454	Genetic Interactions	Lin-Smith-2010
+PSMA5	ERBB2	0.0012004423	Genetic Interactions	Lin-Smith-2010
+PSMA5	PSMA3	0.00078009727	Genetic Interactions	Lin-Smith-2010
+PSMB2	PPP3CA	0.00116585	Genetic Interactions	Lin-Smith-2010
+PSMA1	AKT2	0.0010838775	Genetic Interactions	Lin-Smith-2010
+PSMA1	PSMA4	0.0011568201	Genetic Interactions	Lin-Smith-2010
+PSMB3	TAP1	0.0025345266	Genetic Interactions	Lin-Smith-2010
+PSMB3	APC	0.00042839398	Genetic Interactions	Lin-Smith-2010
+PSMB3	PSMA5	0.0007340972	Genetic Interactions	Lin-Smith-2010
+PSMB3	PSMA1	0.001006657	Genetic Interactions	Lin-Smith-2010
+PSMB8	PPP3CA	0.0005762055	Genetic Interactions	Lin-Smith-2010
+GNAO1	IGF2R	0.0007190843	Genetic Interactions	Lin-Smith-2010
+GNAO1	UBB	0.0007156742	Genetic Interactions	Lin-Smith-2010
+GNAO1	AKT2	0.0007511079	Genetic Interactions	Lin-Smith-2010
+GNAO1	PSMB1	0.0007906536	Genetic Interactions	Lin-Smith-2010
+GNAO1	PSMB3	0.0006975955	Genetic Interactions	Lin-Smith-2010
+PSMB7	IFNB1	0.0029792238	Genetic Interactions	Lin-Smith-2010
+PSMB7	GLUD1	0.0014747771	Genetic Interactions	Lin-Smith-2010
+PSMB7	GCH1	0.0010709636	Genetic Interactions	Lin-Smith-2010
+PSMB7	PSMA1	0.0013632668	Genetic Interactions	Lin-Smith-2010
+RIPK3	CAMK2A	0.0015100695	Genetic Interactions	Lin-Smith-2010
+IL12RB2	GADD45B	0.002079601	Genetic Interactions	Lin-Smith-2010
+IL12RB2	CD38	0.0012823467	Genetic Interactions	Lin-Smith-2010
+IL12RB2	DNAJA1	0.0009695263	Genetic Interactions	Lin-Smith-2010
+IL12RB2	STAT5A	0.0016618072	Genetic Interactions	Lin-Smith-2010
+IL12RB2	APC	0.00054894795	Genetic Interactions	Lin-Smith-2010
+ADRM1	UBB	0.0027535576	Genetic Interactions	Lin-Smith-2010
+ADRM1	PSMA1	0.0025784094	Genetic Interactions	Lin-Smith-2010
+DAP	STAT5A	0.0008645983	Genetic Interactions	Lin-Smith-2010
+DAP	APC	0.00028560444	Genetic Interactions	Lin-Smith-2010
+DAP	NFKB1	0.00081913633	Genetic Interactions	Lin-Smith-2010
+DAP	PSMB7	0.00094609143	Genetic Interactions	Lin-Smith-2010
+TAP2	EMP1	0.00219762	Genetic Interactions	Lin-Smith-2010
+TAP2	PPP3CA	0.00086765894	Genetic Interactions	Lin-Smith-2010
+TAP2	PSMB2	0.006428808	Genetic Interactions	Lin-Smith-2010
+B2M	EMP1	0.001441963	Genetic Interactions	Lin-Smith-2010
+B2M	PIK3CD	0.0008751384	Genetic Interactions	Lin-Smith-2010
+B2M	APC	0.00060063024	Genetic Interactions	Lin-Smith-2010
+B2M	DAP	0.0009794846	Genetic Interactions	Lin-Smith-2010
+BST1	GCH1	0.0005328495	Genetic Interactions	Lin-Smith-2010
+BST1	CAMK2A	0.0005145166	Genetic Interactions	Lin-Smith-2010
+BST1	PPP3CA	0.00027359987	Genetic Interactions	Lin-Smith-2010
+BST1	GNAO1	0.00047003783	Genetic Interactions	Lin-Smith-2010
+AKT2	PIK3CD	0.0053269533	Pathway	Wu-Stein-2010
+PIK3CG	PIK3CD	0.0047304705	Pathway	Wu-Stein-2010
+PIK3CG	AKT2	0.0053269533	Pathway	Wu-Stein-2010
+CDKN1B	AKT2	0.0066387164	Pathway	Wu-Stein-2010
+STAT5A	PIK3CD	0.004280107	Pathway	Wu-Stein-2010
+STAT5A	TIMP3	0.062593386	Pathway	Wu-Stein-2010
+STAT5A	AKT2	0.004819802	Pathway	Wu-Stein-2010
+STAT5A	PIK3CG	0.004280107	Pathway	Wu-Stein-2010
+STAT4	PIK3CD	0.005599912	Pathway	Wu-Stein-2010
+STAT4	AKT2	0.0063060257	Pathway	Wu-Stein-2010
+STAT4	PIK3CG	0.005599912	Pathway	Wu-Stein-2010
+STAT1	IFNB1	0.022128616	Pathway	Wu-Stein-2010
+STAT1	PIK3CD	0.004042139	Pathway	Wu-Stein-2010
+STAT1	TIMP3	0.05911328	Pathway	Wu-Stein-2010
+STAT1	AKT2	0.0045518274	Pathway	Wu-Stein-2010
+STAT1	PIK3CG	0.004042139	Pathway	Wu-Stein-2010
+STAT1	CAMK2A	0.00965367	Pathway	Wu-Stein-2010
+STAT1	STAT5A	0.003657308	Pathway	Wu-Stein-2010
+NFKB1	IFNB1	0.012648538	Pathway	Wu-Stein-2010
+NFKB1	AKT2	0.0026017874	Pathway	Wu-Stein-2010
+NFKB1	STAT4	0.0027351058	Pathway	Wu-Stein-2010
+PSMA2	CDKN1B	0.0075820307	Pathway	Wu-Stein-2010
+PSMA2	APC	0.00804948	Pathway	Wu-Stein-2010
+PSMA4	CDKN1B	0.0075820307	Pathway	Wu-Stein-2010
+PSMA4	APC	0.00804948	Pathway	Wu-Stein-2010
+PSMA4	PSMA2	0.0078244945	Pathway	Wu-Stein-2010
+PSMB1	CDKN1B	0.0066084163	Pathway	Wu-Stein-2010
+PSMB1	APC	0.0070158388	Pathway	Wu-Stein-2010
+PSMB1	PSMA2	0.0068197446	Pathway	Wu-Stein-2010
+PSMB1	PSMA4	0.0068197446	Pathway	Wu-Stein-2010
+ERBB2	PIK3CD	0.00717167	Pathway	Wu-Stein-2010
+ERBB2	HGF	0.0150718475	Pathway	Wu-Stein-2010
+ERBB2	AKT2	0.008075973	Pathway	Wu-Stein-2010
+ERBB2	PIK3CG	0.00717167	Pathway	Wu-Stein-2010
+ERBB2	STAT5A	0.006488893	Pathway	Wu-Stein-2010
+ERBB2	STAT4	0.008489795	Pathway	Wu-Stein-2010
+ERBB2	STAT1	0.0061281193	Pathway	Wu-Stein-2010
+PSMA6	CDKN1B	0.0075820307	Pathway	Wu-Stein-2010
+PSMA6	APC	0.00804948	Pathway	Wu-Stein-2010
+PSMA6	PSMA2	0.0078244945	Pathway	Wu-Stein-2010
+PSMA6	PSMA4	0.0078244945	Pathway	Wu-Stein-2010
+PSMA6	PSMB1	0.0068197446	Pathway	Wu-Stein-2010
+PSMA3	CDKN1B	0.0070764064	Pathway	Wu-Stein-2010
+PSMA3	APC	0.0075126817	Pathway	Wu-Stein-2010
+PSMA3	PSMA2	0.0073027	Pathway	Wu-Stein-2010
+PSMA3	PSMA4	0.0073027	Pathway	Wu-Stein-2010
+PSMA3	PSMB1	0.006364955	Pathway	Wu-Stein-2010
+PSMA3	PSMA6	0.0073027	Pathway	Wu-Stein-2010
+PSMA5	CDKN1B	0.0075820307	Pathway	Wu-Stein-2010
+PSMA5	APC	0.00804948	Pathway	Wu-Stein-2010
+PSMA5	PSMA2	0.0078244945	Pathway	Wu-Stein-2010
+PSMA5	PSMA4	0.0078244945	Pathway	Wu-Stein-2010
+PSMA5	PSMB1	0.0068197446	Pathway	Wu-Stein-2010
+PSMA5	PSMA6	0.0078244945	Pathway	Wu-Stein-2010
+PSMA5	PSMA3	0.0073027	Pathway	Wu-Stein-2010
+PSMB2	CDKN1B	0.00874412	Pathway	Wu-Stein-2010
+PSMB2	APC	0.009283212	Pathway	Wu-Stein-2010
+PSMB2	PSMA2	0.009023745	Pathway	Wu-Stein-2010
+PSMB2	PSMA4	0.009023745	Pathway	Wu-Stein-2010
+PSMB2	PSMB1	0.007864999	Pathway	Wu-Stein-2010
+PSMB2	PSMA6	0.009023745	Pathway	Wu-Stein-2010
+PSMB2	PSMA3	0.008421976	Pathway	Wu-Stein-2010
+PSMB2	PSMA5	0.009023745	Pathway	Wu-Stein-2010
+PSMA1	CDKN1B	0.0075820307	Pathway	Wu-Stein-2010
+PSMA1	APC	0.00804948	Pathway	Wu-Stein-2010
+PSMA1	PSMA2	0.0078244945	Pathway	Wu-Stein-2010
+PSMA1	PSMA4	0.0078244945	Pathway	Wu-Stein-2010
+PSMA1	PSMB1	0.0068197446	Pathway	Wu-Stein-2010
+PSMA1	PSMA6	0.0078244945	Pathway	Wu-Stein-2010
+PSMA1	PSMA3	0.0073027	Pathway	Wu-Stein-2010
+PSMA1	PSMA5	0.0078244945	Pathway	Wu-Stein-2010
+PSMA1	PSMB2	0.009023745	Pathway	Wu-Stein-2010
+PSMB3	CDKN1B	0.0075820307	Pathway	Wu-Stein-2010
+PSMB3	APC	0.00804948	Pathway	Wu-Stein-2010
+PSMB3	PSMA2	0.0078244945	Pathway	Wu-Stein-2010
+PSMB3	PSMA4	0.0078244945	Pathway	Wu-Stein-2010
+PSMB3	PSMB1	0.0068197446	Pathway	Wu-Stein-2010
+PSMB3	PSMA6	0.0078244945	Pathway	Wu-Stein-2010
+PSMB3	PSMA3	0.0073027	Pathway	Wu-Stein-2010
+PSMB3	PSMA5	0.0078244945	Pathway	Wu-Stein-2010
+PSMB3	PSMB2	0.009023745	Pathway	Wu-Stein-2010
+PSMB3	PSMA1	0.0078244945	Pathway	Wu-Stein-2010
+PSMB8	CDKN1B	0.00874412	Pathway	Wu-Stein-2010
+PSMB8	APC	0.009283212	Pathway	Wu-Stein-2010
+PSMB8	PSMA2	0.009023745	Pathway	Wu-Stein-2010
+PSMB8	PSMA4	0.009023745	Pathway	Wu-Stein-2010
+PSMB8	PSMB1	0.007864999	Pathway	Wu-Stein-2010
+PSMB8	PSMA6	0.009023745	Pathway	Wu-Stein-2010
+PSMB8	PSMA3	0.008421976	Pathway	Wu-Stein-2010
+PSMB8	PSMA5	0.009023745	Pathway	Wu-Stein-2010
+PSMB8	PSMB2	0.010406802	Pathway	Wu-Stein-2010
+PSMB8	PSMA1	0.009023745	Pathway	Wu-Stein-2010
+PSMB8	PSMB3	0.009023745	Pathway	Wu-Stein-2010
+PSMB6	CDKN1B	0.00874412	Pathway	Wu-Stein-2010
+PSMB6	APC	0.009283212	Pathway	Wu-Stein-2010
+PSMB6	PSMA2	0.009023745	Pathway	Wu-Stein-2010
+PSMB6	PSMA4	0.009023745	Pathway	Wu-Stein-2010
+PSMB6	PSMB1	0.007864999	Pathway	Wu-Stein-2010
+PSMB6	PSMA6	0.009023745	Pathway	Wu-Stein-2010
+PSMB6	PSMA3	0.008421976	Pathway	Wu-Stein-2010
+PSMB6	PSMA5	0.009023745	Pathway	Wu-Stein-2010
+PSMB6	PSMB2	0.010406802	Pathway	Wu-Stein-2010
+PSMB6	PSMA1	0.009023745	Pathway	Wu-Stein-2010
+PSMB6	PSMB3	0.009023745	Pathway	Wu-Stein-2010
+PSMB6	PSMB8	0.010406802	Pathway	Wu-Stein-2010
+PSMB7	CDKN1B	0.0075820307	Pathway	Wu-Stein-2010
+PSMB7	APC	0.00804948	Pathway	Wu-Stein-2010
+PSMB7	PSMA2	0.0078244945	Pathway	Wu-Stein-2010
+PSMB7	PSMA4	0.0078244945	Pathway	Wu-Stein-2010
+PSMB7	PSMB1	0.0068197446	Pathway	Wu-Stein-2010
+PSMB7	PSMA6	0.0078244945	Pathway	Wu-Stein-2010
+PSMB7	PSMA3	0.0073027	Pathway	Wu-Stein-2010
+PSMB7	PSMA5	0.0078244945	Pathway	Wu-Stein-2010
+PSMB7	PSMB2	0.009023745	Pathway	Wu-Stein-2010
+PSMB7	PSMA1	0.0078244945	Pathway	Wu-Stein-2010
+PSMB7	PSMB3	0.0078244945	Pathway	Wu-Stein-2010
+PSMB7	PSMB8	0.009023745	Pathway	Wu-Stein-2010
+PSMB7	PSMB6	0.009023745	Pathway	Wu-Stein-2010
+PSMB4	CDKN1B	0.00874412	Pathway	Wu-Stein-2010
+PSMB4	APC	0.009283212	Pathway	Wu-Stein-2010
+PSMB4	PSMA2	0.009023745	Pathway	Wu-Stein-2010
+PSMB4	PSMA4	0.009023745	Pathway	Wu-Stein-2010
+PSMB4	PSMB1	0.007864999	Pathway	Wu-Stein-2010
+PSMB4	PSMA6	0.009023745	Pathway	Wu-Stein-2010
+PSMB4	PSMA3	0.008421976	Pathway	Wu-Stein-2010
+PSMB4	PSMA5	0.009023745	Pathway	Wu-Stein-2010
+PSMB4	PSMB2	0.010406802	Pathway	Wu-Stein-2010
+PSMB4	PSMA1	0.009023745	Pathway	Wu-Stein-2010
+PSMB4	PSMB3	0.009023745	Pathway	Wu-Stein-2010
+PSMB4	PSMB8	0.010406802	Pathway	Wu-Stein-2010
+PSMB4	PSMB6	0.010406802	Pathway	Wu-Stein-2010
+PSMB4	PSMB7	0.009023745	Pathway	Wu-Stein-2010
+IL12RB2	STAT5A	0.006300863	Pathway	Wu-Stein-2010
+IL12RB2	STAT4	0.008243783	Pathway	Wu-Stein-2010
+IL12RB2	STAT1	0.0059505426	Pathway	Wu-Stein-2010
+B2M	NFKB1	0.0026577958	Pathway	Wu-Stein-2010
+B2M	IL12RB2	0.008010766	Pathway	Wu-Stein-2010
+PSMA7	CDKN1B	0.0075820307	Pathway	Wu-Stein-2010
+PSMA7	APC	0.00804948	Pathway	Wu-Stein-2010
+PSMA7	PSMA2	0.0078244945	Pathway	Wu-Stein-2010
+PSMA7	PSMA4	0.0078244945	Pathway	Wu-Stein-2010
+PSMA7	PSMB1	0.0068197446	Pathway	Wu-Stein-2010
+PSMA7	PSMA6	0.0078244945	Pathway	Wu-Stein-2010
+PSMA7	PSMA3	0.0073027	Pathway	Wu-Stein-2010
+PSMA7	PSMA5	0.0078244945	Pathway	Wu-Stein-2010
+PSMA7	PSMB2	0.009023745	Pathway	Wu-Stein-2010
+PSMA7	PSMA1	0.0078244945	Pathway	Wu-Stein-2010
+PSMA7	PSMB3	0.0078244945	Pathway	Wu-Stein-2010
+PSMA7	PSMB8	0.009023745	Pathway	Wu-Stein-2010
+PSMA7	PSMB6	0.009023745	Pathway	Wu-Stein-2010
+PSMA7	PSMB7	0.0078244945	Pathway	Wu-Stein-2010
+PSMA7	PSMB4	0.009023745	Pathway	Wu-Stein-2010
+STAT1	STAT5A	0.18324912	Pathway	CELL_MAP
+AKT2	PIK3CD	0.60382926	Physical Interactions	Wan-Emili-2015
+PSMA2	PSMA8	0.029452978	Physical Interactions	Wan-Emili-2015
+PSMA4	PSMA8	0.031775057	Physical Interactions	Wan-Emili-2015
+PSMA4	PSMA2	0.012088012	Physical Interactions	Wan-Emili-2015
+PSMB1	PSMA8	0.043798104	Physical Interactions	Wan-Emili-2015
+PSMB1	PSMA2	0.016661875	Physical Interactions	Wan-Emili-2015
+PSMB1	PSMA4	0.017975502	Physical Interactions	Wan-Emili-2015
+PSMA6	PSMA8	0.033101864	Physical Interactions	Wan-Emili-2015
+PSMA6	PSMA2	0.012592762	Physical Interactions	Wan-Emili-2015
+PSMA6	PSMA4	0.013585579	Physical Interactions	Wan-Emili-2015
+PSMA6	PSMB1	0.018726092	Physical Interactions	Wan-Emili-2015
+PSMA3	PSMA8	0.035445698	Physical Interactions	Wan-Emili-2015
+PSMA3	PSMA2	0.013484414	Physical Interactions	Wan-Emili-2015
+PSMA3	PSMA4	0.014547528	Physical Interactions	Wan-Emili-2015
+PSMA3	PSMB1	0.020052023	Physical Interactions	Wan-Emili-2015
+PSMA3	PSMA6	0.015154978	Physical Interactions	Wan-Emili-2015
+PSMA5	PSMA8	0.029307289	Physical Interactions	Wan-Emili-2015
+PSMA5	PSMA2	0.011149212	Physical Interactions	Wan-Emili-2015
+PSMA5	PSMA4	0.012028219	Physical Interactions	Wan-Emili-2015
+PSMA5	PSMB1	0.016579457	Physical Interactions	Wan-Emili-2015
+PSMA5	PSMA6	0.012530472	Physical Interactions	Wan-Emili-2015
+PSMA5	PSMA3	0.013417713	Physical Interactions	Wan-Emili-2015
+PSMB2	PSMA8	0.042522985	Physical Interactions	Wan-Emili-2015
+PSMB2	PSMA2	0.016176788	Physical Interactions	Wan-Emili-2015
+PSMB2	PSMA4	0.017452171	Physical Interactions	Wan-Emili-2015
+PSMB2	PSMB1	0.024055723	Physical Interactions	Wan-Emili-2015
+PSMB2	PSMA6	0.018180907	Physical Interactions	Wan-Emili-2015
+PSMB2	PSMA3	0.019468237	Physical Interactions	Wan-Emili-2015
+PSMB2	PSMA5	0.016096769	Physical Interactions	Wan-Emili-2015
+PSMA1	PSMA8	0.028379757	Physical Interactions	Wan-Emili-2015
+PSMA1	PSMA2	0.010796356	Physical Interactions	Wan-Emili-2015
+PSMA1	PSMA4	0.011647545	Physical Interactions	Wan-Emili-2015
+PSMA1	PSMB1	0.016054742	Physical Interactions	Wan-Emili-2015
+PSMA1	PSMA6	0.012133902	Physical Interactions	Wan-Emili-2015
+PSMA1	PSMA3	0.012993063	Physical Interactions	Wan-Emili-2015
+PSMA1	PSMA5	0.010742952	Physical Interactions	Wan-Emili-2015
+PSMA1	PSMB2	0.015587331	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMA8	0.037782464	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMA2	0.014373376	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMA4	0.015506578	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMB1	0.021373957	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMA6	0.016154075	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMA3	0.01729789	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMA5	0.014302279	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMB2	0.020751685	Physical Interactions	Wan-Emili-2015
+PSMB3	PSMA1	0.013849634	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMA2	0.016927289	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMA4	0.018261842	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMB1	0.025171759	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMA6	0.019024389	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMA3	0.020371443	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMA5	0.01684356	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMB2	0.02443892	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMA1	0.016310487	Physical Interactions	Wan-Emili-2015
+PSMB8	PSMB3	0.021714434	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMA8	0.031424407	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMA2	0.011954616	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMA4	0.012897121	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMB1	0.017777134	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMA6	0.013435657	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMA3	0.01438699	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMA5	0.011895482	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMB2	0.01725958	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMA1	0.011519008	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMB3	0.0153354565	Physical Interactions	Wan-Emili-2015
+PSMB6	PSMB8	0.018060315	Physical Interactions	Wan-Emili-2015
+GNAO1	CAMK2A	1	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMA8	0.042709243	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMA2	0.016247643	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMA4	0.017528614	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMB1	0.02416109	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMA6	0.018260542	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMA3	0.019553509	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMA5	0.016167276	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMB2	0.023457674	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMA1	0.015655605	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMB3	0.02084258	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMB8	0.024545964	Physical Interactions	Wan-Emili-2015
+PSMB7	PSMB6	0.017335178	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMA8	0.03731957	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMA2	0.014197281	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMA4	0.015316599	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMB1	0.021112094	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMA6	0.015956163	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMA3	0.017085966	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMA5	0.014127054	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMB2	0.020497445	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMA1	0.013679954	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMB3	0.018212363	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMB8	0.0214484	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMB6	0.015147574	Physical Interactions	Wan-Emili-2015
+PSMB4	PSMB7	0.020587228	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMA2	0.021923197	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMA4	0.02365163	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMB1	0.03260093	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMA3	0.026383854	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMA5	0.021814754	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMB2	0.031651802	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMA1	0.021124352	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMB3	0.028123217	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMB8	0.03312025	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMB6	0.023390625	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMB7	0.031790443	Physical Interactions	Wan-Emili-2015
+ADRM1	PSMB4	0.027778665	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMA2	0.018793656	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMA4	0.020275354	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMB1	0.027947143	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMA6	0.021121977	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMA3	0.022617552	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMA5	0.018700695	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMB2	0.0271335	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMA1	0.018108845	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMB3	0.02410862	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMB8	0.028392326	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMB6	0.020051606	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMB7	0.02725235	Physical Interactions	Wan-Emili-2015
+PSMA7	PSMB4	0.023813255	Physical Interactions	Wan-Emili-2015
+PSMA7	ADRM1	0.036772016	Physical Interactions	Wan-Emili-2015
+ELANE	GZMB	1	Physical Interactions	IREF-mint
+PSMA4	PSMA2	0.4883373	Physical Interactions	IREF-mint
+ERBB2	STAT1	0.010754547	Physical Interactions	IREF-mint
+PSMB2	PSMB1	0.3036593	Physical Interactions	IREF-mint
+PSMB3	PSMB1	0.1878252	Physical Interactions	IREF-mint
+PSMB3	PSMB2	0.31941974	Physical Interactions	IREF-mint
+PSMB7	PSMB1	0.15851924	Physical Interactions	IREF-mint
+PSMB7	PSMB6	0.31315094	Physical Interactions	IREF-mint
+RIPK3	ZBP1	0.76536685	Physical Interactions	IREF-mint
+PSMB4	PSMB7	0.237537	Physical Interactions	IREF-mint
+IL12RB2	STAT4	0.8595325	Physical Interactions	IREF-mint
+ADRM1	PSMA6	0.09322986	Physical Interactions	IREF-mint
+USP14	PPP3CA	0.59878165	Physical Interactions	IREF-mint
+TAP2	TAP1	0.6046003	Physical Interactions	IREF-mint
+PSMA7	PSMA2	0.15964882	Physical Interactions	IREF-mint
+PSMA7	PSMA4	0.17495222	Physical Interactions	IREF-mint
+PSMA7	PSMA6	0.11891492	Physical Interactions	IREF-mint
+PSMA7	PSMA3	0.13149315	Physical Interactions	IREF-mint
+PSMA7	PSMA1	0.10072587	Physical Interactions	IREF-mint
+PSMA7	PSMB3	0.1063034	Physical Interactions	IREF-mint
+PSMA7	PSMB7	0.089717105	Physical Interactions	IREF-mint
+PSMA4	PSMA2	0.5179545	Physical Interactions	Wang-Huang-2017
+PSMA3	PSMA6	0.7682785	Physical Interactions	Wang-Huang-2017
+PSMA1	PSMB1	0.76536685	Physical Interactions	Wang-Huang-2017
+PSMB7	PSMB1	0.41421357	Physical Interactions	Wang-Huang-2017
+PSMB7	PSMB3	0.76536685	Physical Interactions	Wang-Huang-2017
+ADRM1	UBB	0.7962252	Physical Interactions	Wang-Huang-2017
+ERBB2	STAT1	0.14137799	Physical Interactions	Jones-MacBeath-2006
+ERBB2	HGF	0.04175167	Physical Interactions	Li-Fu-2017
+ELANE	GZMB	0.39509484	Physical Interactions	IREF-matrixdb
+PSMA4	PSMA2	0.19444844	Physical Interactions	IREF-matrixdb
+PSMA6	PSMA2	0.13723649	Physical Interactions	IREF-matrixdb
+PSMA3	PSMA2	0.067214	Physical Interactions	IREF-matrixdb
+PSMA5	PSMA4	0.37760136	Physical Interactions	IREF-matrixdb
+PSMB2	PSMB1	0.21341988	Physical Interactions	IREF-matrixdb
+PSMA1	PSMA2	0.10330403	Physical Interactions	IREF-matrixdb
+PSMB3	PSMB1	0.09890968	Physical Interactions	IREF-matrixdb
+PSMB7	PSMB1	0.022556866	Physical Interactions	IREF-matrixdb
+PSMB7	PSMB3	0.13995892	Physical Interactions	IREF-matrixdb
+PSMB7	PSMB6	0.36277094	Physical Interactions	IREF-matrixdb
+RIPK3	UBB	0.0255956	Physical Interactions	IREF-matrixdb
+PSMB4	PSMB7	0.24533165	Physical Interactions	IREF-matrixdb
+PSMA7	PSMA2	0.08705147	Physical Interactions	IREF-matrixdb
+PSMA7	PSMA5	0.16904613	Physical Interactions	IREF-matrixdb
+PSMA7	PSMB7	0.08461078	Physical Interactions	IREF-matrixdb
+NFKB1	ISG20	0.15338537	Physical Interactions	IREF-innatedb
+NFKB1	DNAJA1	0.02087738	Physical Interactions	Bouwmeester-Superti-Furga-2004
+RIPK3	UBB	0.019529784	Physical Interactions	Bouwmeester-Superti-Furga-2004
+RIPK3	DNAJA1	0.014494992	Physical Interactions	Bouwmeester-Superti-Furga-2004
+UBB	TICAM2	0.0043505714	Physical Interactions	IREF-reactome
+UBB	PIK3CD	0.0033371302	Physical Interactions	IREF-reactome
+UBB	PSMA8	0.002625915	Physical Interactions	IREF-reactome
+CDKN1B	UBB	0.0023337258	Physical Interactions	IREF-reactome
+TAP1	PSMA8	0.0107780015	Physical Interactions	IREF-reactome
+TAP1	UBB	0.0031325181	Physical Interactions	IREF-reactome
+APC	PSMA8	0.012692425	Physical Interactions	IREF-reactome
+APC	UBB	0.0036889266	Physical Interactions	IREF-reactome
+STAT1	IFNB1	0.013918916	Physical Interactions	IREF-reactome
+STAT1	ISG20	0.061018255	Physical Interactions	IREF-reactome
+STAT1	CAMK2A	0.006302067	Physical Interactions	IREF-reactome
+STAT1	STAT5A	0.005995156	Physical Interactions	IREF-reactome
+NFKB1	UBB	0.0030499774	Physical Interactions	IREF-reactome
+PSMA2	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMA2	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMA2	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMA2	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMA2	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMA4	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMA4	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMA4	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMA4	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMA4	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMA4	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMB1	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMB1	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMB1	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMB1	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMB1	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMB1	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMB1	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+ERBB2	UBB	0.0043047247	Physical Interactions	IREF-reactome
+PSMA6	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMA6	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMA6	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMA6	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMA6	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMA6	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMA6	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMA6	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMA3	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMA3	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMA3	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMA3	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMA3	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMA3	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMA3	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMA3	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMA3	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMA5	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMA5	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMA5	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMA5	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMA5	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMA5	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMA5	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMA5	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMA5	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMA5	PSMA3	0.008158156	Physical Interactions	IREF-reactome
+PSMB2	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMB2	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMB2	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMB2	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMB2	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMB2	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMB2	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMB2	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMB2	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMB2	PSMA3	0.008158156	Physical Interactions	IREF-reactome
+PSMB2	PSMA5	0.008158156	Physical Interactions	IREF-reactome
+PSMA1	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMA1	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMA1	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMA1	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMA1	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMA1	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMA1	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMA1	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMA1	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMA1	PSMA3	0.008158156	Physical Interactions	IREF-reactome
+PSMA1	PSMA5	0.008158156	Physical Interactions	IREF-reactome
+PSMA1	PSMB2	0.008158156	Physical Interactions	IREF-reactome
+PSMB3	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMB3	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMB3	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMB3	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMB3	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMB3	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMB3	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMB3	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMB3	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMB3	PSMA3	0.008158156	Physical Interactions	IREF-reactome
+PSMB3	PSMA5	0.008158156	Physical Interactions	IREF-reactome
+PSMB3	PSMB2	0.008158156	Physical Interactions	IREF-reactome
+PSMB3	PSMA1	0.008158156	Physical Interactions	IREF-reactome
+PSMB8	PSMA8	0.008402905	Physical Interactions	IREF-reactome
+PSMB8	UBB	0.0024422205	Physical Interactions	IREF-reactome
+PSMB8	CDKN1B	0.0074679027	Physical Interactions	IREF-reactome
+PSMB8	TAP1	0.010024032	Physical Interactions	IREF-reactome
+PSMB8	APC	0.011804532	Physical Interactions	IREF-reactome
+PSMB8	STAT1	0.004184883	Physical Interactions	IREF-reactome
+PSMB8	PSMA2	0.007984777	Physical Interactions	IREF-reactome
+PSMB8	PSMA4	0.007984777	Physical Interactions	IREF-reactome
+PSMB8	PSMB1	0.007984777	Physical Interactions	IREF-reactome
+PSMB8	PSMA6	0.007984777	Physical Interactions	IREF-reactome
+PSMB8	PSMA3	0.007984777	Physical Interactions	IREF-reactome
+PSMB8	PSMA5	0.007984777	Physical Interactions	IREF-reactome
+PSMB8	PSMB2	0.007984777	Physical Interactions	IREF-reactome
+PSMB8	PSMA1	0.007984777	Physical Interactions	IREF-reactome
+PSMB8	PSMB3	0.007984777	Physical Interactions	IREF-reactome
+PSMB6	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMB6	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMB6	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMB6	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMB6	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMB6	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMA3	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMA5	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMB2	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMA1	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMB3	0.008158156	Physical Interactions	IREF-reactome
+PSMB6	PSMB8	0.007984777	Physical Interactions	IREF-reactome
+PSMB7	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMB7	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMB7	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMB7	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMB7	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMB7	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMA3	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMA5	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMB2	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMA1	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMB3	0.008158156	Physical Interactions	IREF-reactome
+PSMB7	PSMB8	0.007984777	Physical Interactions	IREF-reactome
+PSMB7	PSMB6	0.008158156	Physical Interactions	IREF-reactome
+RIPK3	TICAM2	0.06639497	Physical Interactions	IREF-reactome
+RIPK3	ZBP1	0.18172362	Physical Interactions	IREF-reactome
+PSMB4	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMB4	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMB4	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMB4	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMB4	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMB4	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMA3	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMA5	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMB2	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMA1	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMB3	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMB8	0.007984777	Physical Interactions	IREF-reactome
+PSMB4	PSMB6	0.008158156	Physical Interactions	IREF-reactome
+PSMB4	PSMB7	0.008158156	Physical Interactions	IREF-reactome
+TAP2	PSMA8	0.0107780015	Physical Interactions	IREF-reactome
+TAP2	UBB	0.0031325181	Physical Interactions	IREF-reactome
+TAP2	TAP1	0.01285734	Physical Interactions	IREF-reactome
+TAP2	PSMA2	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMA4	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMB1	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMA6	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMA3	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMA5	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMB2	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMA1	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMB3	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMB8	0.010024032	Physical Interactions	IREF-reactome
+TAP2	PSMB6	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMB7	0.010241688	Physical Interactions	IREF-reactome
+TAP2	PSMB4	0.010241688	Physical Interactions	IREF-reactome
+B2M	TAP1	0.008929951	Physical Interactions	IREF-reactome
+B2M	STAT1	0.003728121	Physical Interactions	IREF-reactome
+B2M	TAP2	0.008929951	Physical Interactions	IREF-reactome
+PSMA7	PSMA8	0.008585363	Physical Interactions	IREF-reactome
+PSMA7	UBB	0.0024952497	Physical Interactions	IREF-reactome
+PSMA7	CDKN1B	0.0076300576	Physical Interactions	IREF-reactome
+PSMA7	TAP1	0.010241688	Physical Interactions	IREF-reactome
+PSMA7	APC	0.012060851	Physical Interactions	IREF-reactome
+PSMA7	PSMA2	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMA4	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMB1	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMA6	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMA3	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMA5	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMB2	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMA1	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMB3	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMB8	0.007984777	Physical Interactions	IREF-reactome
+PSMA7	PSMB6	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMB7	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	PSMB4	0.008158156	Physical Interactions	IREF-reactome
+PSMA7	TAP2	0.010241688	Physical Interactions	IREF-reactome
+UBB	TICAM2	0.0043505714	Physical Interactions	Vastrik-Stein-2007
+UBB	PIK3CD	0.0033371302	Physical Interactions	Vastrik-Stein-2007
+UBB	PSMA8	0.002625915	Physical Interactions	Vastrik-Stein-2007
+CDKN1B	UBB	0.0023337258	Physical Interactions	Vastrik-Stein-2007
+TAP1	PSMA8	0.0107780015	Physical Interactions	Vastrik-Stein-2007
+TAP1	UBB	0.0031325181	Physical Interactions	Vastrik-Stein-2007
+APC	PSMA8	0.012692425	Physical Interactions	Vastrik-Stein-2007
+APC	UBB	0.0036889266	Physical Interactions	Vastrik-Stein-2007
+STAT1	IFNB1	0.013918916	Physical Interactions	Vastrik-Stein-2007
+STAT1	ISG20	0.061018255	Physical Interactions	Vastrik-Stein-2007
+STAT1	CAMK2A	0.006302067	Physical Interactions	Vastrik-Stein-2007
+STAT1	STAT5A	0.005995156	Physical Interactions	Vastrik-Stein-2007
+NFKB1	UBB	0.0030499774	Physical Interactions	Vastrik-Stein-2007
+PSMA2	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMA2	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMA2	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMA2	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMA2	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMA4	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMA4	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMA4	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMA4	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMA4	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMA4	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB1	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMB1	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMB1	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMB1	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMB1	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMB1	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB1	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+ERBB2	UBB	0.0043047247	Physical Interactions	Vastrik-Stein-2007
+PSMA6	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMA6	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMA6	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMA6	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMA6	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMA6	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA6	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA6	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA3	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMA3	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMA3	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMA3	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMA3	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMA3	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA3	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA3	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA3	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA5	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMA5	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMA5	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMA5	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMA5	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMA5	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA5	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA5	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA5	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA5	PSMA3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB2	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMB2	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMB2	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMB2	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMB2	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMB2	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB2	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB2	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB2	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB2	PSMA3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB2	PSMA5	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA1	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMA1	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMA1	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMA1	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMA1	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMA1	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA1	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA1	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA1	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA1	PSMA3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA1	PSMA5	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA1	PSMB2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMB3	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMB3	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMB3	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMB3	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMA3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMA5	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMB2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB3	PSMA1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMA8	0.008402905	Physical Interactions	Vastrik-Stein-2007
+PSMB8	UBB	0.0024422205	Physical Interactions	Vastrik-Stein-2007
+PSMB8	CDKN1B	0.0074679027	Physical Interactions	Vastrik-Stein-2007
+PSMB8	TAP1	0.010024032	Physical Interactions	Vastrik-Stein-2007
+PSMB8	APC	0.011804532	Physical Interactions	Vastrik-Stein-2007
+PSMB8	STAT1	0.004184883	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMA2	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMA4	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMB1	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMA6	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMA3	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMA5	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMB2	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMA1	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB8	PSMB3	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMB6	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMB6	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMB6	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMB6	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMA3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMA5	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMB2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMA1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMB3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB6	PSMB8	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMB7	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMB7	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMB7	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMB7	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMA3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMA5	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMB2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMA1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMB3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMB8	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB7	PSMB6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+RIPK3	TICAM2	0.06639497	Physical Interactions	Vastrik-Stein-2007
+RIPK3	ZBP1	0.18172362	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMB4	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMB4	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMB4	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMB4	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMA3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMA5	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMB2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMA1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMB3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMB8	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMB6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMB4	PSMB7	0.008158156	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMA8	0.0107780015	Physical Interactions	Vastrik-Stein-2007
+TAP2	UBB	0.0031325181	Physical Interactions	Vastrik-Stein-2007
+TAP2	TAP1	0.01285734	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMA2	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMA4	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMB1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMA6	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMA3	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMA5	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMB2	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMA1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMB3	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMB8	0.010024032	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMB6	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMB7	0.010241688	Physical Interactions	Vastrik-Stein-2007
+TAP2	PSMB4	0.010241688	Physical Interactions	Vastrik-Stein-2007
+B2M	TAP1	0.008929951	Physical Interactions	Vastrik-Stein-2007
+B2M	STAT1	0.003728121	Physical Interactions	Vastrik-Stein-2007
+B2M	TAP2	0.008929951	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMA8	0.008585363	Physical Interactions	Vastrik-Stein-2007
+PSMA7	UBB	0.0024952497	Physical Interactions	Vastrik-Stein-2007
+PSMA7	CDKN1B	0.0076300576	Physical Interactions	Vastrik-Stein-2007
+PSMA7	TAP1	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMA7	APC	0.012060851	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMA2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMA4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMB1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMA6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMA3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMA5	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMB2	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMA1	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMB3	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMB8	0.007984777	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMB6	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMB7	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	PSMB4	0.008158156	Physical Interactions	Vastrik-Stein-2007
+PSMA7	TAP2	0.010241688	Physical Interactions	Vastrik-Stein-2007
+PSMA2	PSMA8	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA4	PSMA8	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA4	PSMA2	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB1	PSMA8	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB1	PSMA2	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB1	PSMA4	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA6	PSMA8	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA6	PSMA2	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA6	PSMA4	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA6	PSMB1	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA3	PSMA8	0.080082655	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA3	PSMA2	0.080082655	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA3	PSMA4	0.080082655	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA3	PSMB1	0.080082655	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA3	PSMA6	0.080082655	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA5	PSMA8	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA5	PSMA2	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA5	PSMA4	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA5	PSMB1	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA5	PSMA6	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA5	PSMA3	0.08648598	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB2	PSMA8	0.086321436	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB2	PSMA2	0.086321436	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB2	PSMA4	0.086321436	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB2	PSMB1	0.086321436	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB2	PSMA6	0.086321436	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB2	PSMA3	0.075313956	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB2	PSMA5	0.09322361	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA1	PSMA8	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA1	PSMA2	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA1	PSMA4	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA1	PSMB1	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA1	PSMA6	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA1	PSMA3	0.080082655	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA1	PSMA5	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA1	PSMB2	0.086321436	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMA8	0.07465814	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMA2	0.07465814	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMA4	0.07465814	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMB1	0.07465814	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMA6	0.07465814	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMA3	0.06513794	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMA5	0.080627725	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMB2	0.07021245	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB3	PSMA1	0.07465814	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMA8	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMA2	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMA4	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMB1	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMA6	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMA3	0.080082655	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMA5	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMB2	0.086321436	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMA1	0.0917871	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB8	PSMB3	0.07465814	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMA8	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMA2	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMA4	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMB1	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMA6	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMA3	0.08648598	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMB2	0.09322361	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMA1	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMB3	0.080627725	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB6	PSMB8	0.0991263	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMB7	PSMB3	0.46792063	Predicted	I2D-vonMering-Bork-2002-High-Yeast2Human
+PSMA4	PSMA2	0.5246476	Predicted	I2D-Tarassov-PCA-Yeast2Human
+PSMA6	PSMA2	0.5246476	Predicted	I2D-Tarassov-PCA-Yeast2Human
+PSMA3	PSMA4	0.3628395	Predicted	I2D-Tarassov-PCA-Yeast2Human
+PSMA3	PSMA6	0.3628395	Predicted	I2D-Tarassov-PCA-Yeast2Human
+PSMA5	PSMA3	0.64359426	Predicted	I2D-Tarassov-PCA-Yeast2Human
+PSMA2	PSMA8	0.14884502	Predicted	I2D-BIND-Yeast2Human
+PSMA4	PSMA8	0.16495512	Predicted	I2D-BIND-Yeast2Human
+PSMA4	PSMA2	0.1016264	Predicted	I2D-BIND-Yeast2Human
+PSMA6	PSMA2	0.13195878	Predicted	I2D-BIND-Yeast2Human
+PSMA6	PSMA4	0.14624122	Predicted	I2D-BIND-Yeast2Human
+PSMA3	PSMA2	0.115847304	Predicted	I2D-BIND-Yeast2Human
+PSMA3	PSMA4	0.12838595	Predicted	I2D-BIND-Yeast2Human
+PSMA3	PSMA6	0.16670524	Predicted	I2D-BIND-Yeast2Human
+PSMA5	PSMA8	0.18577223	Predicted	I2D-BIND-Yeast2Human
+PSMA5	PSMA2	0.114451505	Predicted	I2D-BIND-Yeast2Human
+PSMA5	PSMA4	0.12683906	Predicted	I2D-BIND-Yeast2Human
+PSMA5	PSMB1	0.13820617	Predicted	I2D-BIND-Yeast2Human
+PSMA5	PSMA3	0.14458807	Predicted	I2D-BIND-Yeast2Human
+PSMB2	PSMA8	0.20625556	Predicted	I2D-BIND-Yeast2Human
+PSMB2	PSMA4	0.14082439	Predicted	I2D-BIND-Yeast2Human
+PSMA1	PSMA4	0.111592814	Predicted	I2D-BIND-Yeast2Human
+PSMA1	PSMB1	0.12159357	Predicted	I2D-BIND-Yeast2Human
+PSMA1	PSMA3	0.12720837	Predicted	I2D-BIND-Yeast2Human
+PSMA1	PSMA5	0.12567566	Predicted	I2D-BIND-Yeast2Human
+PSMB3	PSMA2	0.13031161	Predicted	I2D-BIND-Yeast2Human
+PSMB3	PSMA4	0.14441577	Predicted	I2D-BIND-Yeast2Human
+PSMB3	PSMB1	0.15735807	Predicted	I2D-BIND-Yeast2Human
+PSMB3	PSMB2	0.18057367	Predicted	I2D-BIND-Yeast2Human
+PSMB8	PSMA8	0.18218581	Predicted	I2D-BIND-Yeast2Human
+PSMB8	PSMB1	0.13553804	Predicted	I2D-BIND-Yeast2Human
+PSMB8	PSMA5	0.14008829	Predicted	I2D-BIND-Yeast2Human
+PSMB8	PSMB2	0.15553448	Predicted	I2D-BIND-Yeast2Human
+PSMB8	PSMB3	0.15950099	Predicted	I2D-BIND-Yeast2Human
+PSMB6	PSMA6	0.1585003	Predicted	I2D-BIND-Yeast2Human
+PSMB6	PSMA3	0.13914825	Predicted	I2D-BIND-Yeast2Human
+PSMB6	PSMB8	0.13481776	Predicted	I2D-BIND-Yeast2Human
+PSMB7	PSMA2	0.10369409	Predicted	I2D-BIND-Yeast2Human
+PSMB7	PSMB1	0.125216	Predicted	I2D-BIND-Yeast2Human
+PSMB7	PSMA6	0.14921664	Predicted	I2D-BIND-Yeast2Human
+PSMB7	PSMB3	0.14735404	Predicted	I2D-BIND-Yeast2Human
+PSMB7	PSMB8	0.12692122	Predicted	I2D-BIND-Yeast2Human
+PSMB7	PSMB6	0.12455058	Predicted	I2D-BIND-Yeast2Human
+PSMB4	PSMB1	0.11810932	Predicted	I2D-BIND-Yeast2Human
+PSMB4	PSMA6	0.14074779	Predicted	I2D-BIND-Yeast2Human
+PSMB4	PSMA3	0.12356322	Predicted	I2D-BIND-Yeast2Human
+PSMB4	PSMB2	0.13553444	Predicted	I2D-BIND-Yeast2Human
+PSMB4	PSMA1	0.10740091	Predicted	I2D-BIND-Yeast2Human
+PSMB4	PSMB6	0.11748166	Predicted	I2D-BIND-Yeast2Human
+PSMB4	PSMB7	0.110600546	Predicted	I2D-BIND-Yeast2Human
+PIK3CG	PIK3CD	0.9354144	Predicted	I2D-BioGRID-Mouse2Human
+USP14	PSMA4	0.3989869	Predicted	I2D-BioGRID-Mouse2Human
+DAP	UNC5B	1	Predicted	I2D-BioGRID-Mouse2Human
+B2M	TAP1	0.97320914	Predicted	I2D-BioGRID-Mouse2Human
+AKT2	PIK3CD	0.07724113	Predicted	I2D-BioGRID-Fly2Human
+PSMA4	PSMA2	0.035181478	Predicted	I2D-BioGRID-Fly2Human
+PSMB1	PSMA2	0.031892247	Predicted	I2D-BioGRID-Fly2Human
+PSMB1	PSMA4	0.03523845	Predicted	I2D-BioGRID-Fly2Human
+PSMA3	PSMA2	0.03274875	Predicted	I2D-BioGRID-Fly2Human
+PSMA3	PSMA4	0.03618482	Predicted	I2D-BioGRID-Fly2Human
+PSMA3	PSMB1	0.03280178	Predicted	I2D-BioGRID-Fly2Human
+PSMA5	PSMA2	0.03368769	Predicted	I2D-BioGRID-Fly2Human
+PSMA5	PSMA4	0.03722227	Predicted	I2D-BioGRID-Fly2Human
+PSMA5	PSMB1	0.033742238	Predicted	I2D-BioGRID-Fly2Human
+PSMA5	PSMA3	0.03464843	Predicted	I2D-BioGRID-Fly2Human
+PSMB2	PSMA2	0.03326905	Predicted	I2D-BioGRID-Fly2Human
+PSMB2	PSMA4	0.036759708	Predicted	I2D-BioGRID-Fly2Human
+PSMB2	PSMB1	0.033322923	Predicted	I2D-BioGRID-Fly2Human
+PSMB2	PSMA3	0.034217853	Predicted	I2D-BioGRID-Fly2Human
+PSMB2	PSMA5	0.03519891	Predicted	I2D-BioGRID-Fly2Human
+PSMB3	PSMA2	0.026179269	Predicted	I2D-BioGRID-Fly2Human
+PSMB3	PSMA4	0.02892605	Predicted	I2D-BioGRID-Fly2Human
+PSMB3	PSMB1	0.02622166	Predicted	I2D-BioGRID-Fly2Human
+PSMB3	PSMA3	0.026925877	Predicted	I2D-BioGRID-Fly2Human
+PSMB3	PSMA5	0.027697865	Predicted	I2D-BioGRID-Fly2Human
+PSMB3	PSMB2	0.027353663	Predicted	I2D-BioGRID-Fly2Human
+PSMB7	PSMA2	0.029530542	Predicted	I2D-BioGRID-Fly2Human
+PSMB7	PSMA4	0.032628946	Predicted	I2D-BioGRID-Fly2Human
+PSMB7	PSMB1	0.02957836	Predicted	I2D-BioGRID-Fly2Human
+PSMB7	PSMA3	0.030372724	Predicted	I2D-BioGRID-Fly2Human
+PSMB7	PSMA5	0.031243538	Predicted	I2D-BioGRID-Fly2Human
+PSMB7	PSMB2	0.030855274	Predicted	I2D-BioGRID-Fly2Human
+PSMB7	PSMA1	0.14893071	Predicted	I2D-BioGRID-Fly2Human
+PSMB7	PSMB3	0.024279878	Predicted	I2D-BioGRID-Fly2Human
+PSMB4	PSMA2	0.032369733	Predicted	I2D-BioGRID-Fly2Human
+PSMB4	PSMA4	0.03576603	Predicted	I2D-BioGRID-Fly2Human
+PSMB4	PSMB1	0.032422148	Predicted	I2D-BioGRID-Fly2Human
+PSMB4	PSMA3	0.033292882	Predicted	I2D-BioGRID-Fly2Human
+PSMB4	PSMA5	0.03424742	Predicted	I2D-BioGRID-Fly2Human
+PSMB4	PSMB2	0.03382183	Predicted	I2D-BioGRID-Fly2Human
+PSMB4	PSMB3	0.026614247	Predicted	I2D-BioGRID-Fly2Human
+PSMB4	PSMB7	0.030021202	Predicted	I2D-BioGRID-Fly2Human
+PSMA2	PSMA8	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA4	PSMA8	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA4	PSMA2	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB1	PSMA8	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB1	PSMA2	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB1	PSMA4	0.05832194	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA6	PSMA8	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA6	PSMA2	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA6	PSMA4	0.039004244	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA6	PSMB1	0.05832194	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA3	PSMA8	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA3	PSMA2	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA3	PSMA4	0.05832194	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA3	PSMB1	0.087207146	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA3	PSMA6	0.05832194	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA5	PSMA8	0.0740072	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA5	PSMA2	0.0740072	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA5	PSMA4	0.053204753	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA5	PSMB1	0.07955555	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA5	PSMA6	0.053204753	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA5	PSMA3	0.07955555	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB2	PSMA8	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB2	PSMA2	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB2	PSMA4	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB2	PSMB1	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB2	PSMA6	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB2	PSMA3	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB2	PSMA5	0.0740072	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA1	PSMA8	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA1	PSMA2	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA1	PSMA4	0.05832194	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA1	PSMB1	0.087207146	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA1	PSMA6	0.05832194	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA1	PSMA3	0.087207146	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA1	PSMA5	0.07955555	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA1	PSMB2	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB3	PSMA8	0.11129687	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB3	PSMA2	0.11129687	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB3	PSMA4	0.08001279	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB3	PSMA6	0.08001279	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB3	PSMB2	0.11129687	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMA8	0.07143551	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMA2	0.07143551	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMA4	0.051355932	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMB1	0.07679108	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMA6	0.051355932	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMA3	0.07679108	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMA5	0.07005339	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMB2	0.07143551	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMA1	0.07679108	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB8	PSMB3	0.105350874	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMA8	0.086964294	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMA2	0.086964294	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMA4	0.06251978	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMB1	0.09348406	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMA6	0.06251978	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMA3	0.09348406	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMA5	0.08528172	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMB2	0.086964294	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB6	PSMB8	0.08231827	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMA8	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMA2	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMA4	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMB1	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMA6	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMA3	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMA5	0.0740072	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMB2	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMA1	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMB3	0.11129687	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMB8	0.07143551	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB7	PSMB6	0.086964294	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMA8	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMA2	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMA4	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMB1	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMA6	0.054254457	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMA3	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMA5	0.0740072	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMB2	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMA1	0.08112515	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMB3	0.11129687	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMB8	0.07143551	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMB6	0.086964294	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMB4	PSMB7	0.075467326	Predicted	I2D-Krogan-Greenblatt-2006-Core-Yeast2Human
+PSMA2	PSMA8	0.042647578	Predicted	I2D-IntAct-Yeast2Human
+PSMA4	PSMA8	0.039769482	Predicted	I2D-IntAct-Yeast2Human
+PSMA4	PSMA2	0.043160357	Predicted	I2D-IntAct-Yeast2Human
+PSMB1	PSMA8	0.051983315	Predicted	I2D-IntAct-Yeast2Human
+PSMB1	PSMA2	0.056415584	Predicted	I2D-IntAct-Yeast2Human
+PSMB1	PSMA4	0.052608345	Predicted	I2D-IntAct-Yeast2Human
+PSMA6	PSMA8	0.03821416	Predicted	I2D-IntAct-Yeast2Human
+PSMA6	PSMA2	0.041472424	Predicted	I2D-IntAct-Yeast2Human
+PSMA6	PSMA4	0.03867363	Predicted	I2D-IntAct-Yeast2Human
+PSMA6	PSMB1	0.05055091	Predicted	I2D-IntAct-Yeast2Human
+PSMA3	PSMA8	0.04216509	Predicted	I2D-IntAct-Yeast2Human
+PSMA3	PSMA2	0.045760226	Predicted	I2D-IntAct-Yeast2Human
+PSMA3	PSMA4	0.042672068	Predicted	I2D-IntAct-Yeast2Human
+PSMA3	PSMB1	0.055777334	Predicted	I2D-IntAct-Yeast2Human
+PSMA3	PSMA6	0.04100323	Predicted	I2D-IntAct-Yeast2Human
+PSMA5	PSMA8	0.055196468	Predicted	I2D-IntAct-Yeast2Human
+PSMA5	PSMA2	0.059902698	Predicted	I2D-IntAct-Yeast2Human
+PSMA5	PSMA4	0.05586013	Predicted	I2D-IntAct-Yeast2Human
+PSMA5	PSMB1	0.07301565	Predicted	I2D-IntAct-Yeast2Human
+PSMA5	PSMA6	0.053675525	Predicted	I2D-IntAct-Yeast2Human
+PSMA5	PSMA3	0.059224997	Predicted	I2D-IntAct-Yeast2Human
+PSMB2	PSMA8	0.047430363	Predicted	I2D-IntAct-Yeast2Human
+PSMB2	PSMA2	0.051474433	Predicted	I2D-IntAct-Yeast2Human
+PSMB2	PSMA4	0.04800065	Predicted	I2D-IntAct-Yeast2Human
+PSMB2	PSMB1	0.0627424	Predicted	I2D-IntAct-Yeast2Human
+PSMB2	PSMA6	0.046123415	Predicted	I2D-IntAct-Yeast2Human
+PSMB2	PSMA3	0.05089208	Predicted	I2D-IntAct-Yeast2Human
+PSMB2	PSMA5	0.06662058	Predicted	I2D-IntAct-Yeast2Human
+PSMA1	PSMA8	0.035162695	Predicted	I2D-IntAct-Yeast2Human
+PSMA1	PSMA2	0.038160782	Predicted	I2D-IntAct-Yeast2Human
+PSMA1	PSMA4	0.03558548	Predicted	I2D-IntAct-Yeast2Human
+PSMA1	PSMB1	0.04651434	Predicted	I2D-IntAct-Yeast2Human
+PSMA1	PSMA6	0.034193788	Predicted	I2D-IntAct-Yeast2Human
+PSMA1	PSMA3	0.037729055	Predicted	I2D-IntAct-Yeast2Human
+PSMA1	PSMA5	0.049389448	Predicted	I2D-IntAct-Yeast2Human
+PSMA1	PSMB2	0.04244039	Predicted	I2D-IntAct-Yeast2Human
+PSMB3	PSMA8	0.07009126	Predicted	I2D-IntAct-Yeast2Human
+PSMB3	PSMA2	0.07606747	Predicted	I2D-IntAct-Yeast2Human
+PSMB3	PSMA4	0.07093401	Predicted	I2D-IntAct-Yeast2Human
+PSMB3	PSMA6	0.06815989	Predicted	I2D-IntAct-Yeast2Human
+PSMB3	PSMA3	0.07520689	Predicted	I2D-IntAct-Yeast2Human
+PSMB3	PSMB2	0.08459818	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMA8	0.046503015	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMA2	0.050468016	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMA4	0.04706215	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMB1	0.06151568	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMA6	0.045221623	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMA3	0.049897052	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMA5	0.06531803	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMB2	0.05612783	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMA1	0.041610602	Predicted	I2D-IntAct-Yeast2Human
+PSMB8	PSMB3	0.08294414	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMA8	0.045058325	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMA2	0.04890015	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMA4	0.045600094	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMB1	0.0596046	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMA6	0.043816745	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMA3	0.04834692	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMA5	0.06328883	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMB2	0.054384135	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMA1	0.040317904	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMB3	0.08036735	Predicted	I2D-IntAct-Yeast2Human
+PSMB6	PSMB8	0.053320833	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMA8	0.060687188	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMA2	0.065861575	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMA4	0.061416868	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMB1	0.08027895	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMA6	0.059014946	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMA3	0.06511646	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMA5	0.085241094	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMB2	0.07324773	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMA1	0.05430251	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMB3	0.10824344	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMB8	0.07181561	Predicted	I2D-IntAct-Yeast2Human
+PSMB7	PSMB6	0.06958455	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMA8	0.047083046	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMA2	0.051097505	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMA4	0.047649156	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMB1	0.06228297	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMA6	0.045785673	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMA3	0.050519418	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMA5	0.066132754	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMB2	0.056827918	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMA1	0.042129613	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMB3	0.08397871	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMB8	0.055716835	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMB6	0.053985905	Predicted	I2D-IntAct-Yeast2Human
+PSMB4	PSMB7	0.07271136	Predicted	I2D-IntAct-Yeast2Human
+USP14	PSMA1	0.036215674	Predicted	I2D-IntAct-Yeast2Human
+PSMA2	PSMA8	0.055675	Predicted	I2D-MINT-Yeast2Human
+PSMA4	PSMA8	0.05390816	Predicted	I2D-MINT-Yeast2Human
+PSMA4	PSMA2	0.043469727	Predicted	I2D-MINT-Yeast2Human
+PSMB1	PSMA8	0.07421376	Predicted	I2D-MINT-Yeast2Human
+PSMB1	PSMA2	0.05984348	Predicted	I2D-MINT-Yeast2Human
+PSMB1	PSMA4	0.057944354	Predicted	I2D-MINT-Yeast2Human
+PSMA6	PSMA8	0.050424825	Predicted	I2D-MINT-Yeast2Human
+PSMA6	PSMA2	0.040660884	Predicted	I2D-MINT-Yeast2Human
+PSMA6	PSMA4	0.039370514	Predicted	I2D-MINT-Yeast2Human
+PSMA6	PSMB1	0.05420022	Predicted	I2D-MINT-Yeast2Human
+PSMA3	PSMA8	0.0654013	Predicted	I2D-MINT-Yeast2Human
+PSMA3	PSMA2	0.05273741	Predicted	I2D-MINT-Yeast2Human
+PSMA3	PSMA4	0.051063795	Predicted	I2D-MINT-Yeast2Human
+PSMA3	PSMB1	0.07029801	Predicted	I2D-MINT-Yeast2Human
+PSMA3	PSMA6	0.047764253	Predicted	I2D-MINT-Yeast2Human
+PSMA5	PSMA8	0.07316121	Predicted	I2D-MINT-Yeast2Human
+PSMA5	PSMA2	0.05899474	Predicted	I2D-MINT-Yeast2Human
+PSMA5	PSMA4	0.057122547	Predicted	I2D-MINT-Yeast2Human
+PSMA5	PSMB1	0.07863892	Predicted	I2D-MINT-Yeast2Human
+PSMA5	PSMA6	0.053431515	Predicted	I2D-MINT-Yeast2Human
+PSMA5	PSMA3	0.069300994	Predicted	I2D-MINT-Yeast2Human
+PSMB2	PSMA8	0.06129174	Predicted	I2D-MINT-Yeast2Human
+PSMB2	PSMA2	0.049423598	Predicted	I2D-MINT-Yeast2Human
+PSMB2	PSMA4	0.047855146	Predicted	I2D-MINT-Yeast2Human
+PSMB2	PSMB1	0.06588076	Predicted	I2D-MINT-Yeast2Human
+PSMB2	PSMA6	0.044762935	Predicted	I2D-MINT-Yeast2Human
+PSMB2	PSMA3	0.058057792	Predicted	I2D-MINT-Yeast2Human
+PSMB2	PSMA5	0.06494639	Predicted	I2D-MINT-Yeast2Human
+PSMA1	PSMA8	0.057977933	Predicted	I2D-MINT-Yeast2Human
+PSMA1	PSMA2	0.04675146	Predicted	I2D-MINT-Yeast2Human
+PSMA1	PSMA4	0.045267805	Predicted	I2D-MINT-Yeast2Human
+PSMA1	PSMB1	0.062318843	Predicted	I2D-MINT-Yeast2Human
+PSMA1	PSMA6	0.04234278	Predicted	I2D-MINT-Yeast2Human
+PSMA1	PSMA3	0.054918833	Predicted	I2D-MINT-Yeast2Human
+PSMA1	PSMA5	0.061434995	Predicted	I2D-MINT-Yeast2Human
+PSMA1	PSMB2	0.05146795	Predicted	I2D-MINT-Yeast2Human
+PSMB3	PSMA8	0.1034728	Predicted	I2D-MINT-Yeast2Human
+PSMB3	PSMA2	0.08343699	Predicted	I2D-MINT-Yeast2Human
+PSMB3	PSMA4	0.08078913	Predicted	I2D-MINT-Yeast2Human
+PSMB3	PSMA6	0.07556885	Predicted	I2D-MINT-Yeast2Human
+PSMB3	PSMB2	0.09185448	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMA8	0.061276	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMA2	0.04941091	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMA4	0.04784286	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMB1	0.06586384	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMA6	0.04475144	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMA3	0.058042884	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMA5	0.06492972	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMB2	0.054395698	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMA1	0.051454734	Predicted	I2D-MINT-Yeast2Human
+PSMB8	PSMB3	0.09183089	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMA8	0.07655514	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMA2	0.061731488	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMA4	0.059772447	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMB1	0.082286954	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMA6	0.055910192	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMA3	0.072515845	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMA5	0.0811199	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMB2	0.067959234	Predicted	I2D-MINT-Yeast2Human
+PSMB6	PSMB8	0.067941785	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMA8	0.07594583	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMA2	0.061240163	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMA4	0.059296716	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMB1	0.081632026	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMA6	0.0554652	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMA3	0.07193869	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMA5	0.080474265	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMB2	0.067418344	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMA1	0.063773304	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMB3	0.11381574	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMB8	0.06740103	Predicted	I2D-MINT-Yeast2Human
+PSMB7	PSMB6	0.08420745	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMA8	0.06926326	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMA2	0.055851564	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMA4	0.054079123	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMB1	0.074449115	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMA6	0.050584737	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMA3	0.06560871	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMA5	0.073393226	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMB2	0.061486118	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMA1	0.058161803	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMB3	0.103800945	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMB8	0.061470326	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMB6	0.07679792	Predicted	I2D-MINT-Yeast2Human
+PSMB4	PSMB7	0.07618668	Predicted	I2D-MINT-Yeast2Human
+USP14	PSMA1	0.044643097	Predicted	I2D-MINT-Yeast2Human
+IGF2R	GZMB	0.1362779	Predicted	Wu-Stein-2010
+STAT4	STAT5A	0.04290034	Predicted	Wu-Stein-2010
+STAT1	STAT4	0.027790789	Predicted	Wu-Stein-2010
+PSMA2	PSMA8	0.09850545	Predicted	Wu-Stein-2010
+PSMA4	PSMA8	0.13807607	Predicted	Wu-Stein-2010
+PSMB1	PSMA8	0.20868114	Predicted	Wu-Stein-2010
+PSMA6	PSMA8	0.10575949	Predicted	Wu-Stein-2010
+PSMA3	PSMA8	0.05662039	Predicted	Wu-Stein-2010
+PSMA5	PSMA8	0.20868114	Predicted	Wu-Stein-2010
+PSMA1	PSMA8	0.12359481	Predicted	Wu-Stein-2010
+PSMB3	PSMA8	0.108460546	Predicted	Wu-Stein-2010
+PSMB8	PSMA8	0.078513324	Predicted	Wu-Stein-2010
+PSMB6	PSMA8	0.20868114	Predicted	Wu-Stein-2010
+PSMB7	PSMA8	0.20868114	Predicted	Wu-Stein-2010
+USP14	PSMA4	0.30290976	Predicted	Wu-Stein-2010
+TAP2	TAP1	0.10350808	Predicted	Wu-Stein-2010
+PSMA4	PSMA2	0.2734501	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA6	PSMA2	0.104797095	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA6	PSMA4	0.20808914	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA3	PSMA6	0.2934004	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB2	PSMA2	0.07598015	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB2	PSMA4	0.1508691	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB2	PSMB1	0.37287164	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB2	PSMA6	0.057819124	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB2	PSMA3	0.2127216	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB2	PSMA5	0.37287164	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA1	PSMA2	0.2734501	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA1	PSMA6	0.20808914	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA1	PSMB2	0.1508691	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB3	PSMA2	0.2734501	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB3	PSMA6	0.20808914	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMB3	PSMB2	0.1508691	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA7	PSMA2	0.2734501	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA7	PSMA6	0.20808914	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA7	PSMB2	0.1508691	Predicted	I2D-Li-Vidal-2004-interolog-Worm2Human
+PSMA2	PSMA8	0.029298956	Predicted	I2D-BioGRID-Yeast2Human
+PSMA4	PSMA8	0.011279116	Predicted	I2D-BioGRID-Yeast2Human
+PSMA4	PSMA2	0.014841993	Predicted	I2D-BioGRID-Yeast2Human
+PSMB1	PSMA8	0.035285283	Predicted	I2D-BioGRID-Yeast2Human
+PSMB1	PSMA2	0.046431296	Predicted	I2D-BioGRID-Yeast2Human
+PSMB1	PSMA4	0.017874494	Predicted	I2D-BioGRID-Yeast2Human
+PSMA6	PSMA8	0.023680208	Predicted	I2D-BioGRID-Yeast2Human
+PSMA6	PSMA2	0.031160377	Predicted	I2D-BioGRID-Yeast2Human
+PSMA6	PSMA4	0.011995701	Predicted	I2D-BioGRID-Yeast2Human
+PSMA6	PSMB1	0.037527025	Predicted	I2D-BioGRID-Yeast2Human
+PSMA3	PSMA8	0.022126961	Predicted	I2D-BioGRID-Yeast2Human
+PSMA3	PSMA2	0.029116487	Predicted	I2D-BioGRID-Yeast2Human
+PSMA3	PSMA4	0.011208872	Predicted	I2D-BioGRID-Yeast2Human
+PSMA3	PSMB1	0.03506553	Predicted	I2D-BioGRID-Yeast2Human
+PSMA3	PSMA6	0.023532733	Predicted	I2D-BioGRID-Yeast2Human
+PSMA5	PSMA8	0.029683528	Predicted	I2D-BioGRID-Yeast2Human
+PSMA5	PSMA2	0.03906004	Predicted	I2D-BioGRID-Yeast2Human
+PSMA5	PSMA4	0.015036807	Predicted	I2D-BioGRID-Yeast2Human
+PSMA5	PSMB1	0.047040742	Predicted	I2D-BioGRID-Yeast2Human
+PSMA5	PSMA6	0.031569384	Predicted	I2D-BioGRID-Yeast2Human
+PSMA5	PSMA3	0.029498665	Predicted	I2D-BioGRID-Yeast2Human
+PSMB2	PSMA8	0.018136203	Predicted	I2D-BioGRID-Yeast2Human
+PSMB2	PSMA2	0.023865117	Predicted	I2D-BioGRID-Yeast2Human
+PSMB2	PSMA4	0.00918727	Predicted	I2D-BioGRID-Yeast2Human
+PSMB2	PSMB1	0.028741209	Predicted	I2D-BioGRID-Yeast2Human
+PSMB2	PSMA6	0.019288434	Predicted	I2D-BioGRID-Yeast2Human
+PSMB2	PSMA3	0.018023254	Predicted	I2D-BioGRID-Yeast2Human
+PSMB2	PSMA5	0.024178365	Predicted	I2D-BioGRID-Yeast2Human
+PSMA1	PSMA8	0.023552507	Predicted	I2D-BioGRID-Yeast2Human
+PSMA1	PSMA2	0.030992338	Predicted	I2D-BioGRID-Yeast2Human
+PSMA1	PSMA4	0.011931012	Predicted	I2D-BioGRID-Yeast2Human
+PSMA1	PSMB1	0.037324656	Predicted	I2D-BioGRID-Yeast2Human
+PSMA1	PSMA6	0.025048846	Predicted	I2D-BioGRID-Yeast2Human
+PSMA1	PSMA3	0.02340583	Predicted	I2D-BioGRID-Yeast2Human
+PSMA1	PSMA5	0.03139914	Predicted	I2D-BioGRID-Yeast2Human
+PSMA1	PSMB2	0.019184416	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMA8	0.04238007	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMA2	0.0557672	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMA4	0.021468503	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMB1	0.06716149	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMA6	0.04507256	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMA3	0.042116135	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMA5	0.056499187	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMB2	0.034520183	Predicted	I2D-BioGRID-Yeast2Human
+PSMB3	PSMA1	0.0448295	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMA8	0.020719878	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMA2	0.02726493	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMA4	0.010496085	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMB1	0.03283567	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMA6	0.022036254	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMA3	0.02059084	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMA5	0.027622806	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMB2	0.016877132	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMA1	0.02191742	Predicted	I2D-BioGRID-Yeast2Human
+PSMB8	PSMB3	0.039437912	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMA8	0.022222372	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMA2	0.029242035	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMA4	0.011257204	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMB1	0.035216734	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMA6	0.023634205	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMA3	0.022083977	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMA5	0.029625861	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMB2	0.018100971	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMA1	0.023506753	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMB3	0.042297736	Predicted	I2D-BioGRID-Yeast2Human
+PSMB6	PSMB8	0.020679627	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMA8	0.032480765	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMA2	0.042740874	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMA4	0.016453804	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMB1	0.051473644	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMA6	0.03454433	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMA3	0.03227848	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMA5	0.04330188	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMB2	0.02645682	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMA1	0.034358047	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMB3	0.06182341	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMB8	0.030225849	Predicted	I2D-BioGRID-Yeast2Human
+PSMB7	PSMB6	0.032417662	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMA8	0.027959323	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMA2	0.036791187	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMA4	0.014163374	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMB1	0.044308323	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMA6	0.029735634	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMA3	0.027785197	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMA5	0.037274104	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMB2	0.022773935	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMA1	0.029575277	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMB3	0.05321736	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMB8	0.026018297	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMB6	0.027905004	Predicted	I2D-BioGRID-Yeast2Human
+PSMB4	PSMB7	0.04078664	Predicted	I2D-BioGRID-Yeast2Human
+USP14	PSMA4	0.0065042567	Predicted	I2D-BioGRID-Yeast2Human
+USP14	PSMB2	0.010458491	Predicted	I2D-BioGRID-Yeast2Human
+USP14	PSMA1	0.013581877	Predicted	I2D-BioGRID-Yeast2Human
+USP14	PSMB6	0.012814836	Predicted	I2D-BioGRID-Yeast2Human
+STAT4	ZBP1	0.007987666	Predicted	I2D-INNATEDB-Mouse2Human
+STAT4	CAMK2A	0.011394359	Predicted	I2D-INNATEDB-Mouse2Human
+STAT4	STAT5A	0.0023141748	Predicted	I2D-INNATEDB-Mouse2Human
+STAT1	TAP1	0.075602986	Predicted	I2D-INNATEDB-Mouse2Human
+STAT1	STAT4	0.0018382571	Predicted	I2D-INNATEDB-Mouse2Human
+NFKB1	IFNB1	0.014625121	Predicted	I2D-INNATEDB-Mouse2Human
+NFKB1	TAP1	0.055050336	Predicted	I2D-INNATEDB-Mouse2Human
+RIPK3	ZBP1	0.29942596	Predicted	I2D-INNATEDB-Mouse2Human
+ELANE	GZMB	0.0082948785	Shared protein domains	INTERPRO
+HGF	GZMB	0.006078586	Shared protein domains	INTERPRO
+HGF	ELANE	0.0059423675	Shared protein domains	INTERPRO
+IGF2R	HGF	0.013855558	Shared protein domains	INTERPRO
+PIK3CG	PIK3CD	0.09169409	Shared protein domains	INTERPRO
+STAT4	STAT5A	0.061567023	Shared protein domains	INTERPRO
+STAT1	STAT5A	0.06195999	Shared protein domains	INTERPRO
+STAT1	STAT4	0.061567247	Shared protein domains	INTERPRO
+PSMA2	PSMA8	0.06683226	Shared protein domains	INTERPRO
+PSMA4	PSMA8	0.059660133	Shared protein domains	INTERPRO
+PSMA4	PSMA2	0.059660133	Shared protein domains	INTERPRO
+PSMB1	PSMA8	0.025485044	Shared protein domains	INTERPRO
+PSMB1	PSMA2	0.025485044	Shared protein domains	INTERPRO
+PSMB1	PSMA4	0.035709023	Shared protein domains	INTERPRO
+PSMA6	PSMA8	0.06683226	Shared protein domains	INTERPRO
+PSMA6	PSMA2	0.06683226	Shared protein domains	INTERPRO
+PSMA6	PSMA4	0.059660133	Shared protein domains	INTERPRO
+PSMA6	PSMB1	0.025485044	Shared protein domains	INTERPRO
+PSMA3	PSMA8	0.06683226	Shared protein domains	INTERPRO
+PSMA3	PSMA2	0.06683226	Shared protein domains	INTERPRO
+PSMA3	PSMA4	0.059660133	Shared protein domains	INTERPRO
+PSMA3	PSMB1	0.025485044	Shared protein domains	INTERPRO
+PSMA3	PSMA6	0.06683226	Shared protein domains	INTERPRO
+PSMA5	PSMA8	0.06683226	Shared protein domains	INTERPRO
+PSMA5	PSMA2	0.06683226	Shared protein domains	INTERPRO
+PSMA5	PSMA4	0.059660133	Shared protein domains	INTERPRO
+PSMA5	PSMB1	0.025485044	Shared protein domains	INTERPRO
+PSMA5	PSMA6	0.06683226	Shared protein domains	INTERPRO
+PSMA5	PSMA3	0.06683226	Shared protein domains	INTERPRO
+PSMB2	PSMA8	0.025485044	Shared protein domains	INTERPRO
+PSMB2	PSMA2	0.025485044	Shared protein domains	INTERPRO
+PSMB2	PSMA4	0.035709023	Shared protein domains	INTERPRO
+PSMB2	PSMB1	0.054051813	Shared protein domains	INTERPRO
+PSMB2	PSMA6	0.025485044	Shared protein domains	INTERPRO
+PSMB2	PSMA3	0.025485044	Shared protein domains	INTERPRO
+PSMB2	PSMA5	0.025485044	Shared protein domains	INTERPRO
+PSMA1	PSMA8	0.06683226	Shared protein domains	INTERPRO
+PSMA1	PSMA2	0.06683226	Shared protein domains	INTERPRO
+PSMA1	PSMA4	0.059660133	Shared protein domains	INTERPRO
+PSMA1	PSMB1	0.025485044	Shared protein domains	INTERPRO
+PSMA1	PSMA6	0.06683226	Shared protein domains	INTERPRO
+PSMA1	PSMA3	0.06683226	Shared protein domains	INTERPRO
+PSMA1	PSMA5	0.06683226	Shared protein domains	INTERPRO
+PSMA1	PSMB2	0.025485044	Shared protein domains	INTERPRO
+PSMB3	PSMA8	0.025485044	Shared protein domains	INTERPRO
+PSMB3	PSMA2	0.025485044	Shared protein domains	INTERPRO
+PSMB3	PSMA4	0.035709023	Shared protein domains	INTERPRO
+PSMB3	PSMB1	0.054051813	Shared protein domains	INTERPRO
+PSMB3	PSMA6	0.025485044	Shared protein domains	INTERPRO
+PSMB3	PSMA3	0.025485044	Shared protein domains	INTERPRO
+PSMB3	PSMA5	0.025485044	Shared protein domains	INTERPRO
+PSMB3	PSMB2	0.054051813	Shared protein domains	INTERPRO
+PSMB3	PSMA1	0.025485044	Shared protein domains	INTERPRO
+PSMB8	PSMA8	0.023839308	Shared protein domains	INTERPRO
+PSMB8	PSMA2	0.023839308	Shared protein domains	INTERPRO
+PSMB8	PSMA4	0.03340411	Shared protein domains	INTERPRO
+PSMB8	PSMB1	0.050563686	Shared protein domains	INTERPRO
+PSMB8	PSMA6	0.023839308	Shared protein domains	INTERPRO
+PSMB8	PSMA3	0.023839308	Shared protein domains	INTERPRO
+PSMB8	PSMA5	0.023839308	Shared protein domains	INTERPRO
+PSMB8	PSMB2	0.050563686	Shared protein domains	INTERPRO
+PSMB8	PSMA1	0.023839308	Shared protein domains	INTERPRO
+PSMB8	PSMB3	0.050563686	Shared protein domains	INTERPRO
+PSMB6	PSMA8	0.023839308	Shared protein domains	INTERPRO
+PSMB6	PSMA2	0.023839308	Shared protein domains	INTERPRO
+PSMB6	PSMA4	0.03340411	Shared protein domains	INTERPRO
+PSMB6	PSMB1	0.050563686	Shared protein domains	INTERPRO
+PSMB6	PSMA6	0.023839308	Shared protein domains	INTERPRO
+PSMB6	PSMA3	0.023839308	Shared protein domains	INTERPRO
+PSMB6	PSMA5	0.023839308	Shared protein domains	INTERPRO
+PSMB6	PSMB2	0.050563686	Shared protein domains	INTERPRO
+PSMB6	PSMA1	0.023839308	Shared protein domains	INTERPRO
+PSMB6	PSMB3	0.050563686	Shared protein domains	INTERPRO
+PSMB6	PSMB8	0.06082235	Shared protein domains	INTERPRO
+PSMB7	PSMA8	0.02339511	Shared protein domains	INTERPRO
+PSMB7	PSMA2	0.02339511	Shared protein domains	INTERPRO
+PSMB7	PSMA4	0.032781824	Shared protein domains	INTERPRO
+PSMB7	PSMB1	0.04962182	Shared protein domains	INTERPRO
+PSMB7	PSMA6	0.02339511	Shared protein domains	INTERPRO
+PSMB7	PSMA3	0.02339511	Shared protein domains	INTERPRO
+PSMB7	PSMA5	0.02339511	Shared protein domains	INTERPRO
+PSMB7	PSMB2	0.04962182	Shared protein domains	INTERPRO
+PSMB7	PSMA1	0.02339511	Shared protein domains	INTERPRO
+PSMB7	PSMB3	0.04962182	Shared protein domains	INTERPRO
+PSMB7	PSMB8	0.059689466	Shared protein domains	INTERPRO
+PSMB7	PSMB6	0.059689466	Shared protein domains	INTERPRO
+RIPK3	ZBP1	0.017833456	Shared protein domains	INTERPRO
+PSMB4	PSMA8	0.025485002	Shared protein domains	INTERPRO
+PSMB4	PSMA2	0.025485002	Shared protein domains	INTERPRO
+PSMB4	PSMA4	0.03570904	Shared protein domains	INTERPRO
+PSMB4	PSMB1	0.0540519	Shared protein domains	INTERPRO
+PSMB4	PSMA6	0.025485002	Shared protein domains	INTERPRO
+PSMB4	PSMA3	0.025485002	Shared protein domains	INTERPRO
+PSMB4	PSMA5	0.025485002	Shared protein domains	INTERPRO
+PSMB4	PSMB2	0.0540519	Shared protein domains	INTERPRO
+PSMB4	PSMA1	0.025485002	Shared protein domains	INTERPRO
+PSMB4	PSMB3	0.0540519	Shared protein domains	INTERPRO
+PSMB4	PSMB8	0.05056376	Shared protein domains	INTERPRO
+PSMB4	PSMB6	0.05056376	Shared protein domains	INTERPRO
+PSMB4	PSMB7	0.049621902	Shared protein domains	INTERPRO
+USP14	UBB	0.019154876	Shared protein domains	INTERPRO
+TAP2	TAP1	0.030432321	Shared protein domains	INTERPRO
+BST1	CD38	1	Shared protein domains	INTERPRO
+PSMA7	PSMA8	0.06683226	Shared protein domains	INTERPRO
+PSMA7	PSMA2	0.06683226	Shared protein domains	INTERPRO
+PSMA7	PSMA4	0.059660133	Shared protein domains	INTERPRO
+PSMA7	PSMB1	0.025485044	Shared protein domains	INTERPRO
+PSMA7	PSMA6	0.06683226	Shared protein domains	INTERPRO
+PSMA7	PSMA3	0.06683226	Shared protein domains	INTERPRO
+PSMA7	PSMA5	0.06683226	Shared protein domains	INTERPRO
+PSMA7	PSMB2	0.025485044	Shared protein domains	INTERPRO
+PSMA7	PSMA1	0.06683226	Shared protein domains	INTERPRO
+PSMA7	PSMB3	0.025485044	Shared protein domains	INTERPRO
+PSMA7	PSMB8	0.023839308	Shared protein domains	INTERPRO
+PSMA7	PSMB6	0.023839308	Shared protein domains	INTERPRO
+PSMA7	PSMB7	0.02339511	Shared protein domains	INTERPRO
+PSMA7	PSMB4	0.025485002	Shared protein domains	INTERPRO
+ELANE	GZMB	0.010510399	Shared protein domains	PFAM
+HGF	GZMB	0.0076880725	Shared protein domains	PFAM
+HGF	ELANE	0.008063259	Shared protein domains	PFAM
+PIK3CG	PIK3CD	0.10010165	Shared protein domains	PFAM
+STAT4	STAT5A	0.076239936	Shared protein domains	PFAM
+STAT1	STAT5A	0.07682413	Shared protein domains	PFAM
+STAT1	STAT4	0.07733651	Shared protein domains	PFAM
+NFKB1	UNC5B	0.007647098	Shared protein domains	PFAM
+PSMA2	PSMA8	0.0801392	Shared protein domains	PFAM
+PSMA4	PSMA8	0.0801392	Shared protein domains	PFAM
+PSMA4	PSMA2	0.0801392	Shared protein domains	PFAM
+PSMB1	PSMA8	0.044388223	Shared protein domains	PFAM
+PSMB1	PSMA2	0.044388223	Shared protein domains	PFAM
+PSMB1	PSMA4	0.044388223	Shared protein domains	PFAM
+PSMA6	PSMA8	0.0801392	Shared protein domains	PFAM
+PSMA6	PSMA2	0.0801392	Shared protein domains	PFAM
+PSMA6	PSMA4	0.0801392	Shared protein domains	PFAM
+PSMA6	PSMB1	0.044388223	Shared protein domains	PFAM
+PSMA3	PSMA8	0.0801392	Shared protein domains	PFAM
+PSMA3	PSMA2	0.0801392	Shared protein domains	PFAM
+PSMA3	PSMA4	0.0801392	Shared protein domains	PFAM
+PSMA3	PSMB1	0.044388223	Shared protein domains	PFAM
+PSMA3	PSMA6	0.0801392	Shared protein domains	PFAM
+PSMA5	PSMA8	0.0801392	Shared protein domains	PFAM
+PSMA5	PSMA2	0.0801392	Shared protein domains	PFAM
+PSMA5	PSMA4	0.0801392	Shared protein domains	PFAM
+PSMA5	PSMB1	0.044388223	Shared protein domains	PFAM
+PSMA5	PSMA6	0.0801392	Shared protein domains	PFAM
+PSMA5	PSMA3	0.0801392	Shared protein domains	PFAM
+PSMB2	PSMA8	0.044388223	Shared protein domains	PFAM
+PSMB2	PSMA2	0.044388223	Shared protein domains	PFAM
+PSMB2	PSMA4	0.044388223	Shared protein domains	PFAM
+PSMB2	PSMB1	0.06154378	Shared protein domains	PFAM
+PSMB2	PSMA6	0.044388223	Shared protein domains	PFAM
+PSMB2	PSMA3	0.044388223	Shared protein domains	PFAM
+PSMB2	PSMA5	0.044388223	Shared protein domains	PFAM
+PSMA1	PSMA8	0.0801392	Shared protein domains	PFAM
+PSMA1	PSMA2	0.0801392	Shared protein domains	PFAM
+PSMA1	PSMA4	0.0801392	Shared protein domains	PFAM
+PSMA1	PSMB1	0.044388223	Shared protein domains	PFAM
+PSMA1	PSMA6	0.0801392	Shared protein domains	PFAM
+PSMA1	PSMA3	0.0801392	Shared protein domains	PFAM
+PSMA1	PSMA5	0.0801392	Shared protein domains	PFAM
+PSMA1	PSMB2	0.044388223	Shared protein domains	PFAM
+PSMB3	PSMA8	0.044388223	Shared protein domains	PFAM
+PSMB3	PSMA2	0.044388223	Shared protein domains	PFAM
+PSMB3	PSMA4	0.044388223	Shared protein domains	PFAM
+PSMB3	PSMB1	0.06154378	Shared protein domains	PFAM
+PSMB3	PSMA6	0.044388223	Shared protein domains	PFAM
+PSMB3	PSMA3	0.044388223	Shared protein domains	PFAM
+PSMB3	PSMA5	0.044388223	Shared protein domains	PFAM
+PSMB3	PSMB2	0.06154378	Shared protein domains	PFAM
+PSMB3	PSMA1	0.044388223	Shared protein domains	PFAM
+PSMB8	PSMA8	0.044388223	Shared protein domains	PFAM
+PSMB8	PSMA2	0.044388223	Shared protein domains	PFAM
+PSMB8	PSMA4	0.044388223	Shared protein domains	PFAM
+PSMB8	PSMB1	0.06154378	Shared protein domains	PFAM
+PSMB8	PSMA6	0.044388223	Shared protein domains	PFAM
+PSMB8	PSMA3	0.044388223	Shared protein domains	PFAM
+PSMB8	PSMA5	0.044388223	Shared protein domains	PFAM
+PSMB8	PSMB2	0.06154378	Shared protein domains	PFAM
+PSMB8	PSMA1	0.044388223	Shared protein domains	PFAM
+PSMB8	PSMB3	0.06154378	Shared protein domains	PFAM
+PSMB6	PSMA8	0.044388223	Shared protein domains	PFAM
+PSMB6	PSMA2	0.044388223	Shared protein domains	PFAM
+PSMB6	PSMA4	0.044388223	Shared protein domains	PFAM
+PSMB6	PSMB1	0.06154378	Shared protein domains	PFAM
+PSMB6	PSMA6	0.044388223	Shared protein domains	PFAM
+PSMB6	PSMA3	0.044388223	Shared protein domains	PFAM
+PSMB6	PSMA5	0.044388223	Shared protein domains	PFAM
+PSMB6	PSMB2	0.06154378	Shared protein domains	PFAM
+PSMB6	PSMA1	0.044388223	Shared protein domains	PFAM
+PSMB6	PSMB3	0.06154378	Shared protein domains	PFAM
+PSMB6	PSMB8	0.06154378	Shared protein domains	PFAM
+PSMB7	PSMA8	0.040729314	Shared protein domains	PFAM
+PSMB7	PSMA2	0.040729314	Shared protein domains	PFAM
+PSMB7	PSMA4	0.040729314	Shared protein domains	PFAM
+PSMB7	PSMB1	0.05647073	Shared protein domains	PFAM
+PSMB7	PSMA6	0.040729314	Shared protein domains	PFAM
+PSMB7	PSMA3	0.040729314	Shared protein domains	PFAM
+PSMB7	PSMA5	0.040729314	Shared protein domains	PFAM
+PSMB7	PSMB2	0.05647073	Shared protein domains	PFAM
+PSMB7	PSMA1	0.040729314	Shared protein domains	PFAM
+PSMB7	PSMB3	0.05647073	Shared protein domains	PFAM
+PSMB7	PSMB8	0.05647073	Shared protein domains	PFAM
+PSMB7	PSMB6	0.05647073	Shared protein domains	PFAM
+RIPK3	ZBP1	0.093407765	Shared protein domains	PFAM
+PSMB4	PSMA8	0.044388223	Shared protein domains	PFAM
+PSMB4	PSMA2	0.044388223	Shared protein domains	PFAM
+PSMB4	PSMA4	0.044388223	Shared protein domains	PFAM
+PSMB4	PSMB1	0.06154378	Shared protein domains	PFAM
+PSMB4	PSMA6	0.044388223	Shared protein domains	PFAM
+PSMB4	PSMA3	0.044388223	Shared protein domains	PFAM
+PSMB4	PSMA5	0.044388223	Shared protein domains	PFAM
+PSMB4	PSMB2	0.06154378	Shared protein domains	PFAM
+PSMB4	PSMA1	0.044388223	Shared protein domains	PFAM
+PSMB4	PSMB3	0.06154378	Shared protein domains	PFAM
+PSMB4	PSMB8	0.06154378	Shared protein domains	PFAM
+PSMB4	PSMB6	0.06154378	Shared protein domains	PFAM
+PSMB4	PSMB7	0.05647073	Shared protein domains	PFAM
+TAP2	TAP1	0.025508236	Shared protein domains	PFAM
+BST1	CD38	1	Shared protein domains	PFAM
+PSMA7	PSMA8	0.0801392	Shared protein domains	PFAM
+PSMA7	PSMA2	0.0801392	Shared protein domains	PFAM
+PSMA7	PSMA4	0.0801392	Shared protein domains	PFAM
+PSMA7	PSMB1	0.044388223	Shared protein domains	PFAM
+PSMA7	PSMA6	0.0801392	Shared protein domains	PFAM
+PSMA7	PSMA3	0.0801392	Shared protein domains	PFAM
+PSMA7	PSMA5	0.0801392	Shared protein domains	PFAM
+PSMA7	PSMB2	0.044388223	Shared protein domains	PFAM
+PSMA7	PSMA1	0.0801392	Shared protein domains	PFAM
+PSMA7	PSMB3	0.044388223	Shared protein domains	PFAM
+PSMA7	PSMB8	0.044388223	Shared protein domains	PFAM
+PSMA7	PSMB6	0.044388223	Shared protein domains	PFAM
+PSMA7	PSMB7	0.040729314	Shared protein domains	PFAM
+PSMA7	PSMB4	0.044388223	Shared protein domains	PFAM

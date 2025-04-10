@@ -1,0 +1,5 @@
+"","Features","p.value","sig_cox_dat.HR","sig_cox_dat.lower.95","sig_cox_dat.upper.95"
+"Age","Age","0.043",1.307,1.008,1.693
+"Stage","Stage","0.092",2.012,0.893,4.535
+"Grade","Grade","0.33",1.222,0.816,1.831
+"RiskScore","RiskScore","<0.001",2.718,2.134,3.463
